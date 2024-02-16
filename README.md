@@ -15,7 +15,12 @@ Het probleem is dat er momenteel nog te veel lopers te kampen krijgen met blessu
 Ons werd gevraagd op het project van Victoris te verbeteren en veranderen. Lang was het probleem dat technologie lopers niet van blessures kon verhelpen. Dit hebben ze bij Victoris proberen te veranderen. De technologie om aan schokdetectie te doen tijdens dat een loper aan het lopen is, is getest en werkt perfect. Alleen willen ze nog nieuwe inzichten om de lopers te waarschuwen en eventueel de sensorband aan te passen. Kortom ze willen het product op de markt kunnen brengen. Aan ons om die nieuwe inzichten te creëren en de volgende stappen te zetten.
 
 ## Methodologie
+Het volledige semester werd opgedeeld in 2 fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond
 
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/60db62c6-a701-421c-ba9b-11486f5154cd)
+
+In oktober zijn we begonnen met het onderzoeken van de volledige opdracht. Dit werd gedaan met de weergegeven methodes. Daarna convergeerden we met user interviews. 
+In de tweede fase hebben we opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was voor ons een interessant bezoek en we kregen goede feedback van experts. Ze waren ook enthousiast over ons idee met de lichtstrips. Dan begonnen we aan het deel prototyping. Tot slot moesten we een tweede keer convergeren. Dit werd gedaan met gerbuikerstesten. Op die manier kunnen we snel en juiste beslissingen maken hoe we verder gaan in ons project. 
 
 ## Discovery
 ### Doelstellingen
