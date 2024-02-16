@@ -47,33 +47,36 @@ In deze tweede wave wil ik weten hoe we data aan de gebruikers laten zien. Daaro
 Onderzoeksvraag 2: Via welke app wilt de gebruiker de data te zien krijgen? 
 ### Materiaal & methoden
 1. Deze test werd via volgende vragen en taken behandeld: N=3
-     De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen       om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
+De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen       om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
     1)	Wat is het eerste dat je opmerkt?
     2)	Stoor je je ergens aan?
     3)	Was het lampje duidelijk zichtbaar?
 
     Nu doen we hetzelfde maar met het lampje op de schoenveters bevestigd.
-    4)	Welke bevestigingsplaats verkiest u? 
-        a.	Waarom verkiest u deze?
-    5)	Hebt u nog andere opmerkingen?
+    1)	Welke bevestigingsplaats verkiest u en waarom?
+    2)	Hebt u nog andere opmerkingen?
 
 2. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
+
      ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
-     Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de slag gegaan. Ik heb 3 keuzes aan 3               verschillende testpersonen (lopers) voorgesteld en daaruit de beste gekozen.
-    Eerste keuze: Met welke app de data koppelen?
+
+Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste gekozen.
+
+- Eerste keuze: Met welke app de data koppelen?
       1)	Strava? Zo is er geen andere app nodig en kun je alles terugvinden op Strava. 
       2)	Victory(/Strava)? Dit is een zelfstandige app waarop je al je gegevens kun terugvinden. Om de                                    gebruiksvriendelijkheid hoog te houden, is de lay-out hetzelfde als van Strava.
-      3)	Victory? Dit is ook een zelfstandige app, maar heeft niks meer te maken met Strava. De app zorgt ook regelmatig voor             meldingen, die je stimuleren om verder te lopen. Hier is het echt de bedoeling om gezonder te lopen. Er is                     ook een grafiek die toont hoe goed je bezig bent.
+      3)	Victory? Dit is ook een zelfstandige app, maar heeft niks meer te maken met Strava. De app zorgt ook regelmatig voor meldingen, die je stimuleren om verder te lopen. Hier is het echt de bedoeling om gezonder te lopen. Er is ook een grafiek die toont hoe goed je bezig bent.
+  
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/366a3fbf-0d04-4c5f-85bc-c0b97f286a92)
 
-      Tweede keuze: Met welke grafiek de snelheid weergeven?
+- Tweede keuze: Met welke grafiek de snelheid weergeven?
       1)	Gewone rode lijntjes, waar je minder goed hebt gelopen?
       2)	Rode balken onder de grafiek, voor extra duidelijkheid?
       3)	De snelheid weergeven in horizontale balken?
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/d481b0d8-c547-4279-8d1d-3ef30e87eba1)
       
-Derde keuze: Is het nodig/nuttig om een routebouwer in app te steken?
+- Derde keuze: Is het nodig/nuttig om een routebouwer in app te steken?
       1)	Ja, dat zou ik zeker handig vinden.
       2)	Niet per se nodig, maar mag.
       3)	Nee, onnodig.
