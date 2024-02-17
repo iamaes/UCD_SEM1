@@ -96,7 +96,7 @@ Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouw
 We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Dit onderdeel moet nog verder worden onderzocht. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
-We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bij de testen, omdat de loper het licht goed kon zien. Een horlogebandje om de strip op te bevestigen, want hij zit best op de pols. Een digitaal scherm om de app op weer te geven. En eventueel een raspberrt pi om de interface te personaliseren.
+We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bij de testen, omdat de loper het licht goed kon zien. Een horlogebandje om de strip op te bevestigen, want hij zit best op de pols. Een digitaal scherm om de app op weer te geven. En eventueel een raspberry pi om de interface te personaliseren.
 
 ## Kritische reflectie
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
