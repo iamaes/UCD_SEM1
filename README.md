@@ -28,7 +28,7 @@ Tijdens de discovery hebben we het volledige project onderzocht. We bekeken elk 
 ### Materiaal & methoden
 Eerst hebben de volledige ruimte onderzocht aan de hand van benchmarking, innovatrix, user interviews.... Allerlei zaken bestaan al, maar deze technologie kan echt wel een groot probleem oplossen(1). Momenteel wordt dit op vele manier geprobeerd, maar nooit tot echt volledig succes. Ook kan het product door kinesisten gebruikt worden en kunnen ze beter helpen, dankzij de data die eruit kan worden gehaald. Verder deden we ook interviews met de testpersonen. Zo kwamen zij ook al in contact met het product en wisten wij hoe de testpersonen leven. 
 ### Resultaten
-Dit was onder andere het feedback-systeem. Dat moest zeker en vast verbeterd worden. Na een korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. Quote: "In wedstrijden loop ik nooit met muziek."
+Dit was onder andere het feedback-systeem. Dat moest zeker en vast verbeterd worden. Na een korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. Citaat: "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. Ook werd een straf aan gekoppeld, dit vonden we belangrijk, aangezien de loper echt gedwongen moet worden om zijn loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want elke sporter wil altijd sneller en beter. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht. 
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/1a1e554f-d149-4620-a390-9068d88af861)
@@ -47,7 +47,8 @@ In deze tweede wave wil ik weten hoe we data aan de gebruikers laten zien. Daaro
 Onderzoeksvraag 2: Via welke app wilt de gebruiker de data te zien krijgen? 
 ### Materiaal & methoden
 1. Deze test werd via volgende vragen en taken behandeld: N=3
-De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen       om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
+Na een voorafgaand interview, waarin ik peilde naar het gebruiksgemak met de verschillende gadgets volgde de test.
+De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
     1)	Wat is het eerste dat je opmerkt?
     2)	Stoor je je ergens aan?
     3)	Was het lampje duidelijk zichtbaar?
@@ -56,7 +57,7 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
     1)	Welke bevestigingsplaats verkiest u en waarom?
     2)	Hebt u nog andere opmerkingen?
 
-2. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
+3. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
 
      ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
 
@@ -85,27 +86,28 @@ Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de 
 
 ### Resultaten
 Wave 1:
-Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond het echter een beetje te veel verschillende dingen, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie.
+Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond dar er een beetje te veel verschillende dingen zijn, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 
 Wave 2:
-Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. En tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken.
+Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. Citaat: "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer.
 
 ### Conclusies & implicaties
-We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
+We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Dit onderdeel moet nog verder worden onderzocht. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
 We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bij de testen, omdat de loper het licht goed kon zien. Een horlogebandje om de strip op te bevestigen, want hij zit best op de pols. Een digitaal scherm om de app op weer te geven. En eventueel een raspberrt pi om de interface te personaliseren.
 
 ## Kritische reflectie
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Dat is momenteel onze grootste focus, maar in grote lijnen zit het nu zeker goed. 
-Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. We moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
+We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers (2) moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 
 ## Bronnen
 (1) Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
 https://www.victoris.be/lower-impact-running/
+(2) Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
+https://pubmed.ncbi.nlm.nih.gov/25951917/ 
 
 ## Bijlagen
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
