@@ -106,6 +106,7 @@ We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig
 ## Bronnen
 (1) Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
 https://www.victoris.be/lower-impact-running/
+
 (2) Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
 https://pubmed.ncbi.nlm.nih.gov/25951917/ 
 
