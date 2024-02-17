@@ -61,7 +61,7 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
 
      ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
 
-Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste gekozen.
+    Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste gekozen.
 
 - Eerste keuze: Met welke app de data koppelen?
       1)	Strava? Zo is er geen andere app nodig en kun je alles terugvinden op Strava. 
