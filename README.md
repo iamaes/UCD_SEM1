@@ -57,7 +57,7 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
     1)	Welke bevestigingsplaats verkiest u en waarom?
     2)	Hebt u nog andere opmerkingen?
 
-3. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
+2. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
 
      ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
 
@@ -102,6 +102,17 @@ We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bi
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
 We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers (2) moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
+## Ergonomie
+### Antropometrische analyse en belangrijkste bevindingen
+
+### Prototype
+
+### Testprotocol
+https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
+### Analyse test
+
+### Design requirements
+
 
 ## Bronnen
 (1) Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
@@ -109,6 +120,9 @@ https://www.victoris.be/lower-impact-running/
 
 (2) Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
 https://pubmed.ncbi.nlm.nih.gov/25951917/ 
+
+(3) Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
+https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ 
 
 ## Bijlagen
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
