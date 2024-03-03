@@ -84,6 +84,8 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
    
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/aa117d98-06b4-4dde-aa64-7927d847e48b)
 
+video's: https://drive.google.com/drive/folders/1_iYEagzcmo5O9n3O8fimjvcXdTGC6nlW 
+
 ### Resultaten
 Wave 1:
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond dar er een beetje te veel verschillende dingen zijn, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
@@ -122,16 +124,18 @@ De sensorband:
 Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance (3). Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
 
-Ons prototype:
+Ons eerste prototype:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
 
+Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie video's bij analyse).
 
 ### Testprotocol
 https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
 
 ### Analyse test
 https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit 
+https://drive.google.com/drive/folders/1w9Qr2AmvEAt4PkxIzSWpBm2ejxYxww5P
 
 ### Design requirements
 Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
