@@ -104,12 +104,32 @@ We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig
 
 ## Ergonomie
 ### Antropometrische analyse en belangrijkste bevindingen
+Maten...
+
+
+Hieronder worden de handelingen gesimuleerd in Siemens NX. 
+De add-on:
+
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/53ab95f8-855e-4add-b44d-fe4dff6f7dc9)
+
+De sensorband:
+
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/3c9cf5ed-018d-436c-ae44-42761b93a286)
+
+
 
 ### Prototype
+Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance (3). Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
+
+Ons prototype:
+
 
 ### Testprotocol
 https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
+
 ### Analyse test
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
 
 ### Design requirements
 
