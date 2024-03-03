@@ -124,15 +124,19 @@ Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance
 
 Ons prototype:
 
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
+
 
 ### Testprotocol
 https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
 
 ### Analyse test
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
+https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit 
 
 ### Design requirements
+Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
+![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
 
 ## Bronnen
 (1) Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
