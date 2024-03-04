@@ -128,7 +128,7 @@ Ons eerste prototype:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
 
-Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie video's bij analyse).
+Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie foto's en video's bij analyse).
 
 ### Testprotocol
 https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
