@@ -8,7 +8,6 @@
 ## Samenvatting
 Het probleem is dat er momenteel nog te veel lopers te kampen krijgen met blessures. Daarom willen we via schokdetectie de lopers waarschuwen. Op die manier kunnen ze tijdens het lopen hun loopstijl aanpassen en blessures voorkomen. De vraag is alleen, hoe kun je de lopers tijdens het lopen waarschuwen? Dit werd eerst geprobeerd met ruis op muziek. Na een eerste onderzoek werd al snel duidelijk dat lang niet iedereen graag met muziek loopt. Daarom zijn we opzoek gegaan naar een andere manier. We willen via een lichtstrip die rood kleurt de loper waarschuwen. Dit kan een add-on zijn op bijvoorbeeld het horloge, maar eventueel ook een aparte armband. Aangezien de meeste lopers toch al met een horloge lopen, is dit vrij eenvoudig toe te voegen. Ook is er een straf aan gekoppeld zodat de lopers niet alleen zien dat ze slecht lopen, maar er ook effectief iets aan veranderen. Die straf zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want niemand wil dat zijn of haar vrienden zien dat je trager loopt.
 
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/400e7601-65ab-4296-883d-e195dd596719)
 
 
 ## Introductie
