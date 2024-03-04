@@ -107,7 +107,7 @@ We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig
 ## Ergonomie
 ### Antropometrische analyse en belangrijkste bevindingen
 Maten...
-
+Ontwerpstrategiën zijn voor de add-on design for more types. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we design for adjustability toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
 
 Hieronder worden de handelingen gesimuleerd in Siemens NX. 
 De add-on:
