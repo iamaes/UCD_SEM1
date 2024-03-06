@@ -127,7 +127,7 @@ We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bi
 
 ## Kritische reflectie
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers (2) moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
+We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers[^2] moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Ergonomie
 ### Antropometrische analyse en belangrijkste bevindingen
@@ -147,7 +147,7 @@ De sensorband:
 
 
 ### Prototype
-Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance (3). Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
+Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
 
 Ons eerste prototype:
