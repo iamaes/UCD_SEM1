@@ -1,25 +1,43 @@
 # Victory
-*Met schokdetectie en licht strips lopers gezonder laten lopen.* 
+*Blessures bij lopers reduceren door middel van schokdetectie, die via een led en trilling wordt waargenomen. * 
 
 *Ian Maes, Oscar Ortega Saez*
 
 24/01/2024
 
 ## Samenvatting
-Het probleem is dat er momenteel nog te veel lopers te kampen krijgen met blessures. Daarom willen we via schokdetectie de lopers waarschuwen. Op die manier kunnen ze tijdens het lopen hun loopstijl aanpassen en blessures voorkomen. De vraag is alleen, hoe kun je de lopers tijdens het lopen waarschuwen? Dit werd eerst geprobeerd met ruis op muziek. Na een eerste onderzoek werd al snel duidelijk dat lang niet iedereen graag met muziek loopt. Daarom zijn we opzoek gegaan naar een andere manier. We willen via een lichtstrip die rood kleurt de loper waarschuwen. Dit kan een add-on zijn op bijvoorbeeld het horloge, maar eventueel ook een aparte armband. Aangezien de meeste lopers toch al met een horloge lopen, is dit vrij eenvoudig toe te voegen. Ook is er een straf aan gekoppeld zodat de lopers niet alleen zien dat ze slecht lopen, maar er ook effectief iets aan veranderen. Die straf zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want niemand wil dat zijn of haar vrienden zien dat je trager loopt.
+Heden ondervinden talrijke hardlopers belemmeringen in de vorm van blessures. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende hun loopactiviteit hun loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers tijdens het hardlopen effectief te waarschuwen. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een led die de kleur rood aanneemt. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig. 
 
+Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire sanctie neemt de vorm aan van een vermindering van de loopsnelheid, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
+Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een applicatie. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
 
 ## Introductie
-Ons werd gevraagd op het project van Victoris te verbeteren en veranderen. Lang was het probleem dat technologie lopers niet van blessures kon verhelpen. Dit hebben ze bij Victoris proberen te veranderen. De technologie om aan schokdetectie te doen tijdens dat een loper aan het lopen is, is getest en werkt perfect. Alleen willen ze nog nieuwe inzichten om de lopers te waarschuwen en eventueel de sensorband aan te passen. Kortom ze willen het product op de markt kunnen brengen. Aan ons om die nieuwe inzichten te creëren en de volgende stappen te zetten.
+Victoris heeft lang onderzoek gedaan naar dit onderwerp en bedacht het idee om met een sensorband signalen te sturen naar een koptelefoon die de loper waarschuwt. Uiteindelijk was het concept niet overtuigend genoeg. Daarom heeft het initiële concept een paar aanpassingen/toevoegingen nodig. Gedurende lange tijd vormde het obstakel zich in het onvermogen van technologie om hardlopers van blessures te ontnemen. Victoris heeft getracht deze situatie te verbeteren. De technologie voor schokdetectie tijdens het hardlopen is geëvalueerd en heeft zich als uitermate doeltreffend bewezen. Echter, er bestaat een wens om aanvullende inzichten te vergaren met betrekking tot het waarschuwen van hardlopers en mogelijke aanpassingen aan de sensorband. 
+De ambitie is om het product succesvol op de markt te introduceren. 
+
+Randvoorwaarden:
+- gebruiksvriendelijk
+- aanpasbaar
+- visualisatie
 
 ## Methodologie
-Het volledige semester werd opgedeeld in 2 fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond
+Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond.
 
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/60db62c6-a701-421c-ba9b-11486f5154cd)
 
-In oktober zijn we begonnen met het onderzoeken van de volledige opdracht. Dit werd gedaan met de weergegeven methodes. Daarna convergeerden we met user interviews. 
-In de tweede fase hebben we opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was voor ons een interessant bezoek en we kregen goede feedback van experts. Ze waren ook enthousiast over ons idee met de lichtstrips. Dan begonnen we aan het deel prototyping. Tot slot moesten we een tweede keer convergeren. Dit werd gedaan met gerbuikerstesten. Op die manier kunnen we snel en juiste beslissingen maken hoe we verder gaan in ons project. 
+![Schermafbeelding 2024-03-06 125923](https://github.com/iamaes/UCD_SEM1/assets/160027482/b5db08d9-7f38-4df9-a82e-91c04a17eab0)
+
+problem discovery
+In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
+Dit werd met volgende methodes aangepakt: 
+- Innovatrix
+- WHHHHH-model
+- Problem Solution Matrix
+- Root-cause analysis
+problem definition
+Aan de hand van *user interviews* werd geconvergeerd naar het idee 
+
+In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Dan begonnen we aan het deel prototyping. Tot slot moesten we een tweede keer convergeren. Dit werd gedaan met gerbuikerstesten. Op die manier kunnen we snel en juiste beslissingen maken hoe we verder gaan in ons project. 
 
 ## Discovery
 ### Doelstellingen
