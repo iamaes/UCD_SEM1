@@ -13,7 +13,7 @@ Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een applicatie. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
 
 ## Introductie
-Victoris heeft lang onderzoek gedaan naar dit onderwerp en bedacht het idee om met een sensorband signalen te sturen naar een koptelefoon die de loper waarschuwt. Uiteindelijk was het concept niet overtuigend genoeg. Daarom heeft het initiële concept een paar aanpassingen/toevoegingen nodig. Gedurende lange tijd vormde het obstakel zich in het onvermogen van technologie om hardlopers van blessures te ontnemen. Victoris heeft getracht deze situatie te verbeteren. De technologie voor schokdetectie tijdens het hardlopen is geëvalueerd en heeft zich als uitermate doeltreffend bewezen. Echter, er bestaat een wens om aanvullende inzichten te vergaren met betrekking tot het waarschuwen van hardlopers en mogelijke aanpassingen aan de sensorband. 
+Victoris[^1] heeft lang onderzoek gedaan naar dit onderwerp en bedacht het idee om met een sensorband signalen te sturen naar een koptelefoon die de loper waarschuwt. Uiteindelijk was het concept niet overtuigend genoeg. Daarom heeft het initiële concept een paar aanpassingen/toevoegingen nodig. Gedurende lange tijd vormde het obstakel zich in het onvermogen van technologie om hardlopers van blessures te ontnemen. Victoris heeft getracht deze situatie te verbeteren. De technologie voor schokdetectie tijdens het hardlopen is geëvalueerd en heeft zich als uitermate doeltreffend bewezen. Echter, er bestaat een wens om aanvullende inzichten te vergaren met betrekking tot het waarschuwen van hardlopers en mogelijke aanpassingen aan de sensorband. 
 De ambitie is om het product succesvol op de markt te introduceren. 
 
 Randvoorwaarden:
@@ -27,23 +27,31 @@ Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en de
 
 ![Schermafbeelding 2024-03-06 125923](https://github.com/iamaes/UCD_SEM1/assets/160027482/b5db08d9-7f38-4df9-a82e-91c04a17eab0)
 
-problem discovery
+### problem discovery 
 In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
 Dit werd met volgende methodes aangepakt: 
 - Innovatrix
 - WHHHHH-model
 - Problem Solution Matrix
 - Root-cause analysis
-problem definition
-Aan de hand van *user interviews* werd geconvergeerd naar het idee 
+### problem definition
+Na het bespreken van alle problemen was er terug noog aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
-In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Dan begonnen we aan het deel prototyping. Tot slot moesten we een tweede keer convergeren. Dit werd gedaan met gerbuikerstesten. Op die manier kunnen we snel en juiste beslissingen maken hoe we verder gaan in ons project. 
+### problem discovery
+In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
+
+### problem defintion
+Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. Voor dit te verwezenlijken werden gerbuikerstesten gehouden. Via deze methode werden snelle en correcte beslissingen genomen. 
 
 ## Discovery
 ### Doelstellingen
-Tijdens de discovery hebben we het volledige project onderzocht. We bekeken elk deelaspect en haalden er de belangrijkste uit. Alles staat trouwens ook vermeld en uitgeschreven in onze miro.
+Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveerd moeten worden en hoe dit verwezenlijk kan worden.
 ### Materiaal & methoden
-Eerst hebben de volledige ruimte onderzocht aan de hand van benchmarking, innovatrix, user interviews.... Allerlei zaken bestaan al, maar deze technologie kan echt wel een groot probleem oplossen(1). Momenteel wordt dit op vele manier geprobeerd, maar nooit tot echt volledig succes. Ook kan het product door kinesisten gebruikt worden en kunnen ze beter helpen, dankzij de data die eruit kan worden gehaald. Verder deden we ook interviews met de testpersonen. Zo kwamen zij ook al in contact met het product en wisten wij hoe de testpersonen leven. 
+De volledige ruimte werd eerst onderzocht aan de hand van:
+- benchmarking
+- innovatrix
+- user interviews
+
 ### Resultaten
 Dit was onder andere het feedback-systeem. Dat moest zeker en vast verbeterd worden. Na een korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. Citaat: "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. Ook werd een straf aan gekoppeld, dit vonden we belangrijk, aangezien de loper echt gedwongen moet worden om zijn loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want elke sporter wil altijd sneller en beter. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht. 
@@ -161,14 +169,40 @@ Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
 
 ## Bronnen
-(1) Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
+[^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
 https://www.victoris.be/lower-impact-running/
 
-(2) Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
+[^2]: Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
 https://pubmed.ncbi.nlm.nih.gov/25951917/ 
 
-(3) Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
+[^3]: Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
 https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ 
 
 ## Bijlagen
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
+- Discovery
+  - Contextual inquiries
+    - [protocol]
+    - [report]
+  - Focus groups
+    - [protocol]
+    - [report]
+  - Benchmarking
+    - [protocol]
+    - [report]
+- Definition
+  - Dial
+    - [protocol]
+    - [report]
+  - User interface
+    - [protocol]
+    - [report]
+- Develop 1
+  - [protocol]()
+  - [report]()
+- Develop 2
+  - [protocol]()
+  - [report]()
+- Develop 3
+  - [protocol]()
+  - [report]()
