@@ -58,7 +58,7 @@ Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd
 ![Fase(1)](https://github.com/iamaes/UCD_SEM1/assets/160027482/e50c879f-9715-4681-93e9-2935df0b2289)
 
 #### User interviews (N=4)
-Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. 
+Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken. 
 > "In wedstrijden loop ik nooit met muziek."
 
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. 
