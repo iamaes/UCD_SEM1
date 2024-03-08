@@ -49,10 +49,15 @@ Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveer
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
 - benchmarking
-- innovatrix
 - user interviews
 
 ### Resultaten
+#### benchmarking (N=8)
+Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution* matrix gegoten.
+
+
+#### user interviews (N=4)
+
 Dit was onder andere het feedback-systeem. Dat moest zeker en vast verbeterd worden. Na een korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. Citaat: "In wedstrijden loop ik nooit met muziek."
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. Ook werd een straf aan gekoppeld, dit vonden we belangrijk, aangezien de loper echt gedwongen moet worden om zijn loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want elke sporter wil altijd sneller en beter. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht. 
 
