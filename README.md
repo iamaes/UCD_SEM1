@@ -55,6 +55,7 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 #### benchmarking (N=8)
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution* matrix gegoten.
 
+![Fase(1)](https://github.com/iamaes/UCD_SEM1/assets/160027482/e50c879f-9715-4681-93e9-2935df0b2289)
 
 #### user interviews (N=4)
 
