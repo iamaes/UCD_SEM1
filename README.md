@@ -35,7 +35,7 @@ Dit werd met volgende methodes aangepakt:
 - Problem Solution Matrix
 - Root-cause analysis
 ### problem definition
-Na het bespreken van alle problemen was er terug noog aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
+Na het bespreken van alle problemen was er terug nood aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
 ### problem discovery
 In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
