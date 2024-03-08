@@ -61,12 +61,14 @@ Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd
 Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zo werken. 
 > "In wedstrijden loop ik nooit met muziek."
 
-![Schermafbeelding 2024-03-08 173346](https://github.com/iamaes/UCD_SEM1/assets/160027482/9374ec0a-47bd-4dce-ab1d-3e7709d9e836)
-
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met ons volgende idee. 
 Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. 
 
 Ook werd een straf aan gekoppeld, dit vonden we belangrijk, aangezien de loper echt gedwongen moet worden om zijn loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Dit wil uiteraard iedere loper vermijden, want elke sporter wil altijd sneller en beter. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan hun loopstijl. Daardoor zou de straf onnodig blijken. Dit wordt verder onderzocht. 
+
+Alles is hieronder mooi weergeven in een tabel.
+
+![Schermafbeelding 2024-03-08 174439](https://github.com/iamaes/UCD_SEM1/assets/160027482/a9c1c8bd-6392-4b02-ac1d-0b9493f1e63e)
 
 ### Conclusies & implicaties
 Een ander inzicht dat gegeven werd, was dat we ook de iets minder gedreven lopers moeten aanspreken. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures. Ook sinds Corona zijn veel mensen die ineens zijn beginnen sporten. Ze zijn uiteraard niet zo goed getraind als echt sporters. Daardoor moeten we zeker bekijken hoe we deze mensen kunnen aanspreken en een product gaan kopen om hen te helpen. 
