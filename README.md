@@ -49,6 +49,7 @@ Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveer
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
 - benchmarking
+- Gent lab
 - user interviews
 
 ### Resultaten
@@ -56,6 +57,9 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution* matrix gegoten.
 
 ![Fase(1)](https://github.com/iamaes/UCD_SEM1/assets/160027482/e50c879f-9715-4681-93e9-2935df0b2289)
+
+#### Gent lab (30/11)
+Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
 
 #### User interviews (N=4)
 Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier kun je met de toekomstige gebruikers kort op de bal spelen. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken. 
@@ -71,7 +75,10 @@ Alles is hieronder mooi weergeven in een tabel.
 ![Schermafbeelding 2024-03-08 174439](https://github.com/iamaes/UCD_SEM1/assets/160027482/a9c1c8bd-6392-4b02-ac1d-0b9493f1e63e)
 
 ### Conclusies & implicaties
-Een ander inzicht dat gegeven werd, was dat we ook de iets minder gedreven lopers moeten aanspreken. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures. Ook sinds Corona zijn veel mensen die ineens zijn beginnen sporten. Ze zijn uiteraard niet zo goed getraind als echt sporters. Daardoor moeten we zeker bekijken hoe we deze mensen kunnen aanspreken en een product gaan kopen om hen te helpen. 
+De coclusie ehieruit is dat er 2 speicefe zaken moeten aangepakt worden:
+    1. Het real-time feedbacksysteem
+    2. De data-weergave
+Dit zal verwezenlijkt worden op .....
 
 ## Definition
 ### Doelstellingen
