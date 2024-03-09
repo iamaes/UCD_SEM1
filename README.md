@@ -24,7 +24,6 @@ Randvoorwaarden:
 ## Methodologie
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond.
 
-
 ![Schermafbeelding 2024-03-06 125923](https://github.com/iamaes/UCD_SEM1/assets/160027482/b5db08d9-7f38-4df9-a82e-91c04a17eab0)
 
 ### problem discovery 
@@ -77,19 +76,24 @@ Alles is hieronder mooi weergeven in een tabel.
 ### Conclusies & implicaties
 De coclusie ehieruit is dat er 2 speicefe zaken moeten aangepakt worden:
     1. Het real-time feedbacksysteem
-    2. De data-weergave
-Dit zal verwezenlijkt worden op .....
+    2. De dataweergave
+Dit zal verwezenlijkt worden door te werken met licht en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
 
 ## Definition
 ### Doelstellingen
-Ons concept is om, met een sensorband die de schokdetectie meet, de lopers via een lichtband te waarschuwen tijdens het lopen. Zo weten ze meteen of ze gezond aan het lopen zijn. Ook willen we er een straf aan koppelen, waardoor de lopers hun loopstijl zullen aanpassen. Dit zou in de vorm zijn van een snelheidsvermindering. Stel je loopt aan 15km/h dan wordt dit aangepast naar 14km/h (afhankelijk van hoe zwaar de schokdetectie is). 
-Daarnaast willen we ons ook focussen op de dataweergave. Dit kan in verschillende vormen weergegeven worden. Denk bijvoorbeeld aan Strava. Je zou onze data daaraan kunnen koppelen. Ook kan er met een eigen app worden gewerkt. Zo komt ook het sociale aspect aanbod. Er is dan ook geen één loper, die wil dat zijn vrienden zien, dat hij trager heeft gelopen.
-Op deze manier hebben twee verschillende deelaspecten uit ons concept gehaald. Met deze twee gaan we aan de slag tijdens de testfase. Er is uiteraard nog een derde deelaspect, de sensorband, maar die is voorlopig van minder belang. We willen de beste keuzes uit elk deelaspect halen en daarmee verder doen. In 2 waves leggen we uit hoe we dit aanpakten.
-Met de test in de eerste wave hopen we inzicht te verwerven in waar de loper het feedback bandje/add-on zou willen bevestigen en waar het gemakkelijk waarneembaar is zonder hinder voor de gebruiker tijdens het lopen.
-Onderzoeksvraag 1: Op welke manier waarschuwen/informeren we de lopers?
-In deze tweede wave wil ik weten hoe we data aan de gebruikers laten zien. Daarom deze testfase. De testpersonen kiezen elk hun voorkeur en daarmee gaan wij aan de slag. 
-Onderzoeksvraag 2: Via welke app wilt de gebruiker de data te zien krijgen? 
+Met de test in de eerste wave moet inzicht verworven worden in waar de loper de add-on (licht) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
+Onderzoeksvraag 1: Hoe kan de loper gewaarschuwd worden via licht?
+In deze tweede wave werd onderzocht hoe de data weergeven wordt voor de loper. De testpersonen kiezen elk hun voorkeur en daarmee kunnen we de juist beslissingen maken.
+Onderzoeksvraag 2: Via welke applicatie en op welke manier wilt de gebruiker de data te zien krijgen? 
 ### Materiaal & methoden
+Deze onderzoeksvragen werden ondervraagd met volgende materialen: 
+- Led
+- 3 verschillende applicaties
+
+De user tests werden toegepast als methode.
+
+### Resultaten
+#### Real-time feedbacksysteem
 1. Deze test werd via volgende vragen en taken behandeld: N=3
 Na een voorafgaand interview, waarin ik peilde naar het gebruiksgemak met de verschillende gadgets volgde de test.
 De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
@@ -100,6 +104,8 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
     Nu doen we hetzelfde maar met het lampje op de schoenveters bevestigd.
     1)	Welke bevestigingsplaats verkiest u en waarom?
     2)	Hebt u nog andere opmerkingen?
+
+#### Dataweergave
 
 2. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
 
@@ -130,15 +136,14 @@ De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van he
 
 video's: https://drive.google.com/drive/folders/1_iYEagzcmo5O9n3O8fimjvcXdTGC6nlW 
 
-### Resultaten
+### Conclusies & implicaties
 Wave 1:
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond dar er een beetje te veel verschillende dingen zijn, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 
 Wave 2:
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. Citaat: "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
-Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer.
+Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer. 
 
-### Conclusies & implicaties
 We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Dit onderdeel moet nog verder worden onderzocht. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
@@ -200,20 +205,20 @@ https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-access
 ## Bijlagen
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
 - Discovery
-  - Contextual inquiries
-    - [protocol]
-    - [report]
-  - Focus groups
-    - [protocol]
-    - [report]
   - Benchmarking
     - [protocol]
     - [report]
-- Definition
-  - Dial
+  - Gent lab
     - [protocol]
     - [report]
-  - User interface
+  - User interviews
+    - [protocol]
+    - [report]
+- Definition
+  - Licht
+    - [protocol]
+    - [report]
+  - Dataweergave
     - [protocol]
     - [report]
 - Develop 1
