@@ -47,9 +47,9 @@ Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. V
 Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveerd moeten worden en hoe dit verwezenlijk kan worden.
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
-- benchmarking
-- Gent lab
-- user interviews
+- Benchmarking
+- Sportlab Gent
+- User interviews
 
 ### Resultaten
 #### Benchmarking (N=8)
@@ -57,7 +57,7 @@ Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd
 
 ![Fase(1)](https://github.com/iamaes/UCD_SEM1/assets/160027482/e50c879f-9715-4681-93e9-2935df0b2289)
 
-#### Gent lab (30/11)
+#### Sportlab Gent (30/11)
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
 
 #### User interviews (N=4)
@@ -141,7 +141,9 @@ Wave 1:
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond dar er een beetje te veel verschillende dingen zijn, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 
 Wave 2:
-Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. Citaat: "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
+Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. 
+> "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
+
 Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer. 
 
 We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Dit onderdeel moet nog verder worden onderzocht. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
@@ -151,7 +153,7 @@ We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bi
 
 ## Kritische reflectie
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers[^2] moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
+We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Ergonomie
 ### Antropometrische analyse en belangrijkste bevindingen
