@@ -1,7 +1,7 @@
 # Victory
 *Blessures bij lopers reduceren door middel van schokdetectie, die via een led en trilling wordt waargenomen.* 
 
-*Ian Maes, Oscar Ortega Saez*
+*Ian Maes*
 
 24/01/2024
 
