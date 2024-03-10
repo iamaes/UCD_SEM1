@@ -89,8 +89,9 @@ Onderzoeksvraag 2: Via welke applicatie en op welke manier wilt de gebruiker de 
 Deze onderzoeksvragen werden ondervraagd met volgende materialen: 
 - Led
 - 3 verschillende applicaties
+De Victory-app is zelf ontworpen. Het is een 'zelfstandige' app waarop alle data kan verschijnen, in verband met je loopsessie en schokdetectie.
 
-De user tests werden toegepast als methode.
+De user tests werd toegepast als methode.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
@@ -114,10 +115,10 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
 
 
 ### Conclusies & implicaties
-Wave 1:
-Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. Een van de drie personen vond dar er een beetje te veel verschillende dingen zijn, maar de voordelen wogen alsnog zwaarder dan de nadelen (met de belofte dat ze minder kans op blessure zouden hebben). Hierna volgde de kennismaking met het concept. Over het algemeen waren de reacties positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
+#### Real-time feedbacksysteem
+Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
 
-Wave 2:
+#### Dataweergave
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 
