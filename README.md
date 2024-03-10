@@ -121,10 +121,13 @@ Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouw
 
 ### Conclusies & implicaties
 Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
-Daarnaast wordt geconcludeerd dat de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
+Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
-We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bij de testen, omdat de loper het licht goed kon zien. Een horlogebandje om de strip op te bevestigen, want hij zit best op de pols. Een digitaal scherm om de app op weer te geven. En eventueel een raspberry pi om de interface te personaliseren.
+|Materialen|Prijs|Link|  
+|---:|:---:|:---:|
+|Add-on|
+|Sensorband|
 
 ## Kritische reflectie
 We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
