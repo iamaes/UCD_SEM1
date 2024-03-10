@@ -179,19 +179,19 @@ https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-access
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
 - Discovery
   - Benchmarking
-    - [protocol](https://docs.google.com/document/d/1JfUbHos3zhybmaLJP-YiFlEOg0O1E8SZYjdd3L35vJQ/edit)
+    - [report](https://docs.google.com/document/d/1JfUbHos3zhybmaLJP-YiFlEOg0O1E8SZYjdd3L35vJQ/edit)
   - Sportlab Gent 
     - [report](https://docs.google.com/document/d/1eVAYHaiM8YtlSQzIp9O4Rh9jSH3_wspkmVG7wBDYLsU/edit)
   - User interviews
-    - [protocol]
-    - [report]
+    - [protocol](https://docs.google.com/document/d/1Ds5i_zKur2OjnSJB4rF4CbEXlMRWsTcHIAqmpsxzQDc/edit)
+    - [report](https://docs.google.com/document/d/1FYFXpTA5BVXFCcAXG7kBOfN_o8Z9limd2GxG5UwDKqg/edit)
 - Definition
   - Licht
-    - [protocol]
-    - [report]
+    - [protocol](https://docs.google.com/document/d/14RKI3u73EJ5et9bNNRCVGS322qjNWHI3CRWDusgx7Ww/edit)
+    - [content](https://drive.google.com/drive/folders/1RqDLnNr1HxHgYtXpxXUg87GblHZwHT1Z)
   - Dataweergave
-    - [protocol]
-    - [report]
+    - [protocol](https://docs.google.com/document/d/1nL5AD3cuOb6XBmzNJhNB2doB6iqqc5_j05A39bJJuNo/edit)
+    - [content](https://drive.google.com/drive/folders/17L1cb4ROWZA2x9M9FQ5hRD_oOJQ906zj)
 - Develop 1
   - [protocol](https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit)
   - [report](https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit)
