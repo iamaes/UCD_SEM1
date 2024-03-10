@@ -93,21 +93,12 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 De user tests werden toegepast als methode.
 
 ### Resultaten
-#### Real-time feedbacksysteem
-1. Deze test werd via volgende vragen en taken behandeld: N=3
-Na een voorafgaand interview, waarin ik peilde naar het gebruiksgemak met de verschillende gadgets volgde de test.
-De kleine test die nu volgt zal gaan over de zichtbaarheid en het comfort van het lichtbandje. Nu zou ik u willen vragen om deze sporthorloge met lampje aan te doen en dit bandje met schokdetector rond je enkel te binden om vervolgens een          stukje te lopen.
-    1)	Wat is het eerste dat je opmerkt?
-    2)	Stoor je je ergens aan?
-    3)	Was het lampje duidelijk zichtbaar?
+#### Real-time feedbacksysteem (N=3)
+Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
+Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren.
 
-    Nu doen we hetzelfde maar met het lampje op de schoenveters bevestigd.
-    1)	Welke bevestigingsplaats verkiest u en waarom?
-    2)	Hebt u nog andere opmerkingen?
-
-#### Dataweergave
-
-2. De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld. N=3
+#### Dataweergave (N=3)
+De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
 
      ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
 
