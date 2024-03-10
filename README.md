@@ -71,7 +71,7 @@ Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen
 
 Alles is hieronder mooi weergeven in een tabel.
 
-![Schermafbeelding 2024-03-08 174439](https://github.com/iamaes/UCD_SEM1/assets/160027482/a9c1c8bd-6392-4b02-ac1d-0b9493f1e63e)
+![Schermafbeelding 2024-03-10 150649](https://github.com/iamaes/UCD_SEM1/assets/160027482/1e96d589-b321-46c0-a506-636a863a63d3)
 
 ### Conclusies & implicaties
 De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
@@ -126,7 +126,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 ## Bill of materials
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
-|Add-on|
+|Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
 |Sensorband|
 
 ## Kritische reflectie
