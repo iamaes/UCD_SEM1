@@ -74,7 +74,7 @@ Alles is hieronder mooi weergeven in een tabel.
 ![Schermafbeelding 2024-03-08 174439](https://github.com/iamaes/UCD_SEM1/assets/160027482/a9c1c8bd-6392-4b02-ac1d-0b9493f1e63e)
 
 ### Conclusies & implicaties
-De coclusie ehieruit is dat er 2 speicefe zaken moeten aangepakt worden:
+De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
     1. Het real-time feedbacksysteem
     2. De dataweergave
 Dit zal verwezenlijkt worden door te werken met licht en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
@@ -97,6 +97,7 @@ De user tests werd toegepast als methode.
 #### Real-time feedbacksysteem (N=3)
 Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
 Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren.
+Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie.
 
 #### Dataweergave (N=3)
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
@@ -113,18 +114,14 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
    
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/aa117d98-06b4-4dde-aa64-7927d847e48b)
 
-
-### Conclusies & implicaties
-#### Real-time feedbacksysteem
-Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen zonder al te veel moeite te doen (bijvoorbeeld op de schoen). De add-on op het horloge was hierbij dan de populairste positie. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
-
-#### Dataweergave
-Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app (die niets te maken heeft met Strava). De meeste mensen houden liever de zaken uit elkaar en willen geen dingen mengen/verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee van het wel een handige functie, die ze zouden gebruiken. 
+Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 
 Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer. 
 
-We concluderen dat er een product gemaakt moet worden die via licht strips de loper waarschuwt. De licht strip moet op de arm kunnen bevestigd worden als add-on of apart. Dit onderdeel moet nog verder worden onderzocht. Daarnaast wordt de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
+### Conclusies & implicaties
+Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
+Daarnaast wordt geconcludeerd dat de data weergegeven op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een routebouwer in de app. 
 
 ## Bill of materials
 We hebben een licht strip nodig, die van kleur van veranderen. Dit is gekozen bij de testen, omdat de loper het licht goed kon zien. Een horlogebandje om de strip op te bevestigen, want hij zit best op de pols. Een digitaal scherm om de app op weer te geven. En eventueel een raspberry pi om de interface te personaliseren.
