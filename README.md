@@ -179,11 +179,9 @@ https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-access
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
 - Discovery
   - Benchmarking
-    - [protocol]
-    - [report]
-  - Gent lab
-    - [protocol]
-    - [report]
+    - [protocol](https://docs.google.com/document/d/1JfUbHos3zhybmaLJP-YiFlEOg0O1E8SZYjdd3L35vJQ/edit)
+  - Sportlab Gent 
+    - [report](https://docs.google.com/document/d/1eVAYHaiM8YtlSQzIp9O4Rh9jSH3_wspkmVG7wBDYLsU/edit)
   - User interviews
     - [protocol]
     - [report]
