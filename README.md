@@ -55,7 +55,7 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 #### Benchmarking (N=8)
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution* matrix gegoten.
 
-![Fase(1)](https://github.com/iamaes/UCD_SEM1/assets/160027482/e50c879f-9715-4681-93e9-2935df0b2289)
+![Fase(2)](https://github.com/iamaes/UCD_SEM1/assets/160027482/67fb29f4-6ff4-4873-9e55-2ed1f0db4b33)
 
 #### Sportlab Gent (30/11)
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
@@ -130,8 +130,8 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 |Sensorband|
 
 ## Kritische reflectie
-We stellen vast dat de twee waves zeker van groot belang zijn geweest. Het heeft ons verder gebracht in ons concept en hielp ons aan nieuwe ideeën. Daarnaast merkten we op dat ons concept bij vele testpersonen in de smaak viel. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Daarnaast moeten we zeker ook nog eens bekijken hoe we de iets minder frequente lopers kunnen aanspreken. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
+De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
+We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Ergonomie
 ### Antropometrische analyse en belangrijkste bevindingen
@@ -158,14 +158,7 @@ Ons eerste prototype:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
 
-Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie foto's en video's bij analyse).
-
-### Testprotocol
-https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit 
-
-### Analyse test
-https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit 
-Foto's en video's: https://drive.google.com/drive/folders/1w9Qr2AmvEAt4PkxIzSWpBm2ejxYxww5P
+Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
 
 ### Design requirements
 Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
@@ -202,8 +195,9 @@ Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/
     - [protocol]
     - [report]
 - Develop 1
-  - [protocol]()
-  - [report]()
+  - [protocol](https://docs.google.com/document/d/1Kloh9CuRuLPTNAOVPl9ogjszAQTPNSdJbwxoKbp8yB8/edit)
+  - [report](https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit)
+  - [content](https://drive.google.com/drive/folders/1w9Qr2AmvEAt4PkxIzSWpBm2ejxYxww5P)
 - Develop 2
   - [protocol]()
   - [report]()
