@@ -1,5 +1,5 @@
 # Victory
-*Blessures bij lopers reduceren door middel van schokdetectie, die via een led en trilling wordt waargenomen. * 
+*Blessures bij lopers reduceren door middel van schokdetectie, die via een led en trilling wordt waargenomen.* 
 
 *Ian Maes, Oscar Ortega Saez*
 
@@ -99,33 +99,19 @@ Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschat
 
 #### Dataweergave (N=3)
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
+Met 3 verschillende vragen en telkens 3 verschillende prototypes, werd aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste genomen.
 
-     ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/88fb6063-5ba4-47f1-ba69-0216c4d31280)
-
-    Met 3 verschillende vragen en telkens 3 verschillende prototypes, ben ik aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste gekozen.
-
-- Eerste keuze: Met welke app de data koppelen?
-      1)	Strava? Zo is er geen andere app nodig en kun je alles terugvinden op Strava. 
-      2)	Victory(/Strava)? Dit is een zelfstandige app waarop je al je gegevens kun terugvinden. Om de                                    gebruiksvriendelijkheid hoog te houden, is de lay-out hetzelfde als van Strava.
-      3)	Victory? Dit is ook een zelfstandige app, maar heeft niks meer te maken met Strava. De app zorgt ook regelmatig voor meldingen, die je stimuleren om verder te lopen. Hier is het echt de bedoeling om gezonder te lopen. Er is ook een grafiek die toont hoe goed je bezig bent.
+De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om te kijken hoe gebruiksvriendelijk de interface was opgesteld. Daarna werd uitgelegd hoe het concept met de applicatie in elkaar zit. Na deze stappen kunnen de testpersonen een keuze maken. Welke applicatie het vaakst werd gekozen, wordt gebruikt in het ontwerp. 
+De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier hun voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de app.
   
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/366a3fbf-0d04-4c5f-85bc-c0b97f286a92)
 
-- Tweede keuze: Met welke grafiek de snelheid weergeven?
-      1)	Gewone rode lijntjes, waar je minder goed hebt gelopen?
-      2)	Rode balken onder de grafiek, voor extra duidelijkheid?
-      3)	De snelheid weergeven in horizontale balken?
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/d481b0d8-c547-4279-8d1d-3ef30e87eba1)
       
-- Derde keuze: Is het nodig/nuttig om een routebouwer in app te steken?
-      1)	Ja, dat zou ik zeker handig vinden.
-      2)	Niet per se nodig, maar mag.
-      3)	Nee, onnodig.
    
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/aa117d98-06b4-4dde-aa64-7927d847e48b)
 
-video's: https://drive.google.com/drive/folders/1_iYEagzcmo5O9n3O8fimjvcXdTGC6nlW 
 
 ### Conclusies & implicaties
 Wave 1:
