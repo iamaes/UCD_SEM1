@@ -12,6 +12,9 @@ Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, 
 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een applicatie. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
 
+![heroschets_Def](https://github.com/iamaes/UCD_SEM1/assets/160027482/cf1aca0b-a1a1-4e3d-82f3-3fa20a4cddef)
+
+
 ## Introductie
 Victoris[^1] heeft lang onderzoek gedaan naar dit onderwerp en bedacht het idee om met een sensorband signalen te sturen naar een koptelefoon die de loper waarschuwt. Uiteindelijk was het concept niet overtuigend genoeg. Daarom heeft het initiële concept een paar aanpassingen/toevoegingen nodig. Gedurende lange tijd vormde het obstakel zich in het onvermogen van technologie om hardlopers van blessures te ontnemen. Victoris heeft getracht deze situatie te verbeteren. De technologie voor schokdetectie tijdens het hardlopen is geëvalueerd en heeft zich als uitermate doeltreffend bewezen. Echter, er bestaat een wens om aanvullende inzichten te vergaren met betrekking tot het waarschuwen van hardlopers en mogelijke aanpassingen aan de sensorband. 
 De ambitie is om het product succesvol op de markt te introduceren. 
