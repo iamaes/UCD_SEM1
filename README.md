@@ -147,7 +147,7 @@ De sensorband:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/3c9cf5ed-018d-436c-ae44-42761b93a286)
 
-
+De percentielberekeningen hadden in dit concept geen extra waarde.
 ### Prototype
 Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
@@ -159,7 +159,7 @@ Ons eerste prototype:
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
 
 ### Design requirements
-Ontwerpstrategiën zijn voor de add-on design for more types. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we design for adjustability toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
+Ontwerpstrategiën zijn voor de add-on *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we *design for adjustability* toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
 
 Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
