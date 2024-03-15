@@ -11,7 +11,6 @@ Heden ondervinden talrijke hardlopers belemmeringen in de vorm van blessures. Mi
 Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire sanctie neemt de vorm aan van een vermindering van de loopsnelheid, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een applicatie. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
-
 ![heroschets_Def](https://github.com/iamaes/UCD_SEM1/assets/160027482/cf1aca0b-a1a1-4e3d-82f3-3fa20a4cddef)
 
 
@@ -132,17 +131,14 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 |Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
 |Sensorband|
 
-## Kritische reflectie
-De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
+## Develop 1: Human Body
+### Doelstellingen
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan de hand van een ‘anthropometrische analyse en user test kan aantonen welke optimalisaties je aanbracht op het vlak van de fysieke ergonomie.
 
-## Ergonomie
-### Antropometrische analyse en belangrijkste bevindingen
-Vooronderzoek: moet nog geschreven worden...
+### Materiaal en methoden
+Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
 
-Ontwerpstrategiën zijn voor de add-on design for more types. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we design for adjustability toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
-
-Hieronder worden de handelingen gesimuleerd in Siemens NX. 
+Hieronder worden de handelingen gesimuleerd in Siemens NX.
 De add-on:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/53ab95f8-855e-4add-b44d-fe4dff6f7dc9)
@@ -150,7 +146,6 @@ De add-on:
 De sensorband:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/3c9cf5ed-018d-436c-ae44-42761b93a286)
-
 
 
 ### Prototype
@@ -164,9 +159,15 @@ Ons eerste prototype:
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
 
 ### Design requirements
+Ontwerpstrategiën zijn voor de add-on design for more types. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we design for adjustability toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
+
 Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
+
+## Kritische reflectie
+De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
+We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
