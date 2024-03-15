@@ -137,8 +137,11 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan d
 
 ### Materiaal en methoden
 Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
+Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard is het voor de meeste mensen wel logisch dat je met je rechthand tot bij je linkerpols kunt of omgekeerd. Ook stel je het niet in vraag of je met je handen tot aan je enkel kunt. 
 
-Hieronder worden de handelingen gesimuleerd in Siemens NX.
+![Schermafbeelding 2024-03-15 165925](https://github.com/iamaes/UCD_SEM1/assets/160027482/0c926d0c-59d3-41d0-8bbe-836218874072)
+
+Hieronder worden de handelingen ook gesimuleerd in Siemens NX.
 De add-on:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/53ab95f8-855e-4add-b44d-fe4dff6f7dc9)
@@ -148,7 +151,10 @@ De sensorband:
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/3c9cf5ed-018d-436c-ae44-42761b93a286)
 
 De percentielberekeningen hadden in dit concept geen extra waarde.
-### Prototype
+
+### Resultaten
+
+#### Prototype
 Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
 
@@ -168,16 +174,6 @@ Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen
 ## Kritische reflectie
 De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
 We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
-
-## Bronnen
-[^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
-https://www.victoris.be/lower-impact-running/
-
-[^2]: Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
-https://pubmed.ncbi.nlm.nih.gov/25951917/ 
-
-[^3]: Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
-https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ 
 
 ## Bijlagen
 Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
@@ -206,3 +202,14 @@ Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/
 - Develop 3
   - [protocol]()
   - [report]()
+
+
+## Bronnen
+[^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
+https://www.victoris.be/lower-impact-running/
+
+[^2]: Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
+https://pubmed.ncbi.nlm.nih.gov/25951917/ 
+
+[^3]: Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
+https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ 
