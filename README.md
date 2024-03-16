@@ -154,20 +154,20 @@ De percentielberekeningen hadden in dit concept geen extra waarde.
 
 ### Resultaten (N=3)
 #### Prototype
-Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
+Voor de add-on heb ik me gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
 
-Ons eerste prototype:
+Eerste prototype:
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
 Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonmisch ontworpen is en of er eventuele aanpassingen nodig zijn.
 
-### Design requirements
-Ontwerpstrategiën zijn voor de add-on *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we *design for adjustability* toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
+#### Design requirements
+De ntwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
 
-Naast de ergonomische verbeteringen moeten we ook de add-on een beetje aanpassen. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
+Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
 
