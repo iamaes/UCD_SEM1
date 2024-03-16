@@ -171,6 +171,19 @@ Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast word
 
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
 
+## Develop 2: Human Mind
+### Doelstellingen
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan de hand van een ‘expert review’ en usability testen kan aantonen welke optimalisaties je aanbracht.
+
+### Materiaal en methoden
+
+
+### Resultaten 
+#### Prototype
+
+
+#### Design requirements
+
 ## Kritische reflectie
 De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
 We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
