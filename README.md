@@ -140,7 +140,7 @@ Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de defi
 Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard is het voor de meeste mensen wel logisch dat je met je rechthand tot bij je linkerpols kunt of omgekeerd. Ook stel je het niet in vraag of je met je handen tot aan je enkel kunt. Tot slot werd ook nog duidelijk dat de add-on absoluut niet groter mag zijn dan 18cm, omdat de vingers die anders niet kunnen vasthouden. Dit is duidelijk op de derde afbeelding.
 
 ![Schermafbeelding 2024-03-15 165925](https://github.com/iamaes/UCD_SEM1/assets/160027482/0c926d0c-59d3-41d0-8bbe-836218874072)
-
+[^4]
 Hieronder worden de handelingen ook gesimuleerd in Siemens NX.
 De add-on:
 
@@ -206,10 +206,12 @@ Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/
 
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
-https://www.victoris.be/lower-impact-running/
+[URL](https://www.victoris.be/lower-impact-running/)
 
 [^2]: Pubmed. (2015, jul.) Incidence of Running-Related Injuries Per 1000 h of running in Different Types of Runners: A Systematic Review and Meta-Analysis.
-https://pubmed.ncbi.nlm.nih.gov/25951917/ 
+[URL](https://pubmed.ncbi.nlm.nih.gov/25951917/)
 
 [^3]: Kickstarter. (z.d.) Glance: World's first smart accessory for your watch. Geraadpleegd op 29/02/2024.
-https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ 
+[URL](https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch?fbclid=IwAR0rZDua1Eh5U1iQGI0FTj-k8iF39z1o7G8C-pEZ4MCOvYG8juoK6yZZBmQ)
+
+[^4]: Blumstengel, B.S. (2019). Lunch & Learn Series: Office Ergonomics Done Right van [URL]([https://pdfs.semanticscholar.org/1b99/b3f87a1eef62f601bcd0519c6107bc6e018c.pdf](https://freshworks.io/office-ergonomics-done-right/))
