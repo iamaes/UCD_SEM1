@@ -11,7 +11,7 @@ Heden ondervinden talrijke hardlopers belemmeringen in de vorm van blessures. Mi
 Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire sanctie neemt de vorm aan van een vermindering van de loopsnelheid, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een applicatie. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
-![heroschets_Def](https://github.com/iamaes/UCD_SEM1/assets/160027482/cf1aca0b-a1a1-4e3d-82f3-3fa20a4cddef)
+<img src="images/heroschets"/>
 
 
 ## Introductie
