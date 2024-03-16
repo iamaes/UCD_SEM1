@@ -137,7 +137,7 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan d
 
 ### Materiaal en methoden
 Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
-Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard is het voor de meeste mensen wel logisch dat je met je rechthand tot bij je linkerpols kunt of omgekeerd. Ook stel je het niet in vraag of je met je handen tot aan je enkel kunt. 
+Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard is het voor de meeste mensen wel logisch dat je met je rechthand tot bij je linkerpols kunt of omgekeerd. Ook stel je het niet in vraag of je met je handen tot aan je enkel kunt. Tot slot werd ook nog duidelijk dat de add-on absoluut niet groter mag zijn dan 18cm, omdat de vingers die anders niet kunnen vasthouden. Dit is duidelijk op de derde afbeelding.
 
 ![Schermafbeelding 2024-03-15 165925](https://github.com/iamaes/UCD_SEM1/assets/160027482/0c926d0c-59d3-41d0-8bbe-836218874072)
 
@@ -152,8 +152,7 @@ De sensorband:
 
 De percentielberekeningen hadden in dit concept geen extra waarde.
 
-### Resultaten
-
+### Resultaten (N=3)
 #### Prototype
 Voor onze add-on hebben we ons gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
@@ -163,6 +162,7 @@ Ons eerste prototype:
 ![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
+Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonmisch ontworpen is en of er eventuele aanpassingen nodig zijn.
 
 ### Design requirements
 Ontwerpstrategiën zijn voor de add-on *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moeten we *design for adjustability* toepassen. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
