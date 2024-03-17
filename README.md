@@ -26,7 +26,7 @@ Randvoorwaarden:
 ## Methodologie
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond.
 
-![Schermafbeelding 2024-03-06 125923](https://github.com/iamaes/UCD_SEM1/assets/160027482/b5db08d9-7f38-4df9-a82e-91c04a17eab0)
+<img src="images/dubbel_diamond.png"/>
 
 ### problem discovery 
 In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
@@ -55,9 +55,9 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 
 ### Resultaten
 #### Benchmarking (N=8)
-Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution* matrix gegoten.
+Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
 
-![Fase(2)](https://github.com/iamaes/UCD_SEM1/assets/160027482/67fb29f4-6ff4-4873-9e55-2ed1f0db4b33)
+<img src="problem-solution_matrix.png"/>
 
 #### Sportlab Gent (30/11)
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
@@ -73,7 +73,7 @@ Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen
 
 Alles is hieronder mooi weergeven in een tabel.
 
-![Schermafbeelding 2024-03-10 150649](https://github.com/iamaes/UCD_SEM1/assets/160027482/1e96d589-b321-46c0-a506-636a863a63d3)
+<img src="tabel.png"/>
 
 ### Conclusies & implicaties
 De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
@@ -107,14 +107,20 @@ Met 3 verschillende vragen en telkens 3 verschillende prototypes, werd aan de sl
 
 De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om te kijken hoe gebruiksvriendelijk de interface was opgesteld. Daarna werd uitgelegd hoe het concept met de applicatie in elkaar zit. Na deze stappen kunnen de testpersonen een keuze maken. Welke applicatie het vaakst werd gekozen, wordt gebruikt in het ontwerp. 
 De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier hun voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de app.
-  
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/366a3fbf-0d04-4c5f-85bc-c0b97f286a92)
 
-
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/d481b0d8-c547-4279-8d1d-3ef30e87eba1)
-      
-   
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/aa117d98-06b4-4dde-aa64-7927d847e48b)
+<p>
+    <img src="voorbeeld_stravaapp.png" width="32%"/>
+    <img src="voorbeeld_victory_stravaapp.png" width="32%"/>
+    <img src="voorbeeld_victoryapp.png" width="32%"/>
+</p>
+<p>
+    <img src="victory_grafieken.jpg" width="32%"/>
+    <img src="voorbeeld_victory_grafiek.png" width="32%"/>
+    <img src="strava grafieken.jpg" width="32%"/>
+</p>
+<p>
+    <img src="voorbeeld_victory_routebouwer.png" width="32%"/>
+</p>
 
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
