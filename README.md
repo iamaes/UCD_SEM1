@@ -57,7 +57,7 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 #### Benchmarking (N=8)
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
 
-<img src="problem-solution_matrix.png"/>
+<img src="images/problem-solution_matrix.png"/>
 
 #### Sportlab Gent (30/11)
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
@@ -73,7 +73,7 @@ Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen
 
 Alles is hieronder mooi weergeven in een tabel.
 
-<img src="tabel.png"/>
+<img src="images/tabel.png"/>
 
 ### Conclusies & implicaties
 De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
@@ -109,17 +109,17 @@ De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om
 De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier hun voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de app.
 
 <p>
-    <img src="voorbeeld_stravaapp.png" width="32%"/>
-    <img src="voorbeeld_victory_stravaapp.png" width="32%"/>
-    <img src="voorbeeld_victoryapp.png" width="32%"/>
+    <img src="images/voorbeeld_stravaapp.png" width="32%"/>
+    <img src="images/voorbeeld_victory_stravaapp.png" width="32%"/>
+    <img src="images/voorbeeld_victoryapp.png" width="32%"/>
 </p>
 <p>
-    <img src="victory_grafieken.jpg" width="32%"/>
-    <img src="voorbeeld_victory_grafiek.png" width="32%"/>
-    <img src="strava grafieken.jpg" width="32%"/>
+    <img src="images/victory_grafieken.jpg" width="32%"/>
+    <img src="images/voorbeeld_victory_grafiek.png" width="32%"/>
+    <img src="images/strava grafieken.jpg" width="32%"/>
 </p>
 <p>
-    <img src="voorbeeld_victory_routebouwer.png" width="32%"/>
+    <img src="images/voorbeeld_victory_routebouwer.png" width="32%"/>
 </p>
 
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
