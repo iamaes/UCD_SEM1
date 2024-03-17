@@ -116,10 +116,10 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
 <p>
     <img src="images/victory_grafieken.jpg" width="32%"/>
     <img src="images/voorbeeld_victory_grafiek.png" width="32%"/>
-    <img src="images/strava grafieken.jpg" width="32%"/>
+    <img src="images/strava grafieken3.jpg" width="32%"/>
 </p>
 <p>
-    <img src="images/voorbeeld_victory_routebouwer.png" width="32%"/>
+    <img src="images/voorbeeld_victory_routebouwe.png" width="32%"/>
 </p>
 
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
@@ -144,9 +144,14 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan d
 ### Materiaal en methoden
 Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
 Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard is het voor de meeste mensen wel logisch dat je met je rechthand tot bij je linkerpols kunt of omgekeerd. Ook stel je het niet in vraag of je met je handen tot aan je enkel kunt. Tot slot werd ook nog duidelijk dat de add-on absoluut niet groter mag zijn dan 18cm, omdat de vingers die anders niet kunnen vasthouden. Dit is duidelijk op de derde afbeelding.
-
-![Schermafbeelding 2024-03-15 165925](https://github.com/iamaes/UCD_SEM1/assets/160027482/0c926d0c-59d3-41d0-8bbe-836218874072)
 [^4]
+
+<p>
+    <img scr="images/antropometrie_sensor.png" width="32%"/>
+    <img scr="images/antropometrie_sensorband.png" width="32%"/>
+    <img scr="images/antropometrie.jpg" width="32%"/>
+</p>
+
 Hieronder worden de handelingen ook gesimuleerd in Siemens NX.
 De add-on:
 
