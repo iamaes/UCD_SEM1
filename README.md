@@ -192,7 +192,7 @@ De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in
 
 Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/432bc4e0-07ea-4fd4-aaf2-8932702696c5)
+<img src="images/design_glance.png" width="40%"/>
 
 ## Develop 2: Human Mind
 ### Doelstellingen
