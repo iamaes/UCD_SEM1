@@ -73,7 +73,11 @@ Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen
 
 Alles is hieronder mooi weergeven in een tabel.
 
-<img src="images/tabel.png"/>
+||1|2|3|4|  
+|---:|:---:|:---:|:---:|:---:|
+|Feedback: (muziek/waterrugzak/licht/trilling)|Trilling|Licht|Licht|Licht en Trilling|
+|Ondergrond|90% verhard|2x/week piste, anders verhard|meestal verhard|1x/week pist, anders verhard|
+|Lopen met muziek|Soms|Nooit|Nooit|Altijd|
 
 ### Conclusies & implicaties
 De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
