@@ -172,16 +172,16 @@ De percentielberekeningen hadden in dit concept geen extra waarde.
 #### Prototype
 Voor de add-on heb ik me gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 <p>
-    <img src="images/glance_product.png" width="32%"/>
+    <img src="images/glance_product.png" width="36%"/>
     <img src="images/glance_oled.png" width="32%"/>
-    <img src="images/nx_glance.png" width="32%"/>
+    <img src="images/nx_glance.png" width="26%"/>
 </p>
 
 Eerste prototype:
 <p>
-    <img src="images/prototype_tante.jpg" width="32%"/>
-    <img src="images/nx_prototype.png" width="32%"/>
-    <img src="images/prototype_rense.jpg" width="32%"/>
+    <img src="images/prototype_tante.jpg" width="28%"/>
+    <img src="images/nx_prototype.png" width="43%"/>
+    <img src="images/prototype_rense.jpg" width="28%"/>
 </p>
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie afbeelding rechts).
@@ -212,7 +212,6 @@ De vaststelling is dat de user test ons concept enorm hebben geholpen en het nie
 We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Bijlagen
-Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/ 
 - Discovery
   - Benchmarking
     - [report](https://docs.google.com/document/d/1JfUbHos3zhybmaLJP-YiFlEOg0O1E8SZYjdd3L35vJQ/edit)
@@ -239,6 +238,7 @@ Onze miro: https://miro.com/app/board/uXjVNeHs5e4=/
   - [protocol]()
   - [report]()
 
+Het miro-board: https://miro.com/app/board/uXjVNeHs5e4=/ 
 
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
