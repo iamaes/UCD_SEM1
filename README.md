@@ -147,36 +147,48 @@ Na opzoekingswerk werden volgende afbeeldingen interessant bevonden. Uiteraard i
 [^4]
 
 <p>
-    <img scr="images/antropometrie_sensor.png" width="32%"/>
-    <img scr="images/antropometrie_sensorband.png" width="32%"/>
-    <img scr="images/antropometrie.jpg" width="32%"/>
+    <img src="images/antropometrie_sensor.png" width="40%"/>
+    <img src="images/antropometrie_sensorband.png" width="18%"/>
+    <img src="images/antropometrie.jpg" width="40%"/>
 </p>
 
 Hieronder worden de handelingen ook gesimuleerd in Siemens NX.
 De add-on:
-
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/53ab95f8-855e-4add-b44d-fe4dff6f7dc9)
+<p>
+    <img src="images/Jack_1.png" width="40%"/>
+    <img src="images/Jack_2.png" width="39%"/>
+</p>
 
 De sensorband:
-
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/3c9cf5ed-018d-436c-ae44-42761b93a286)
+<p>
+    <img src="images/Jack_3.png" width="26%"/>
+    <img src="images/Jack_4.png" width="40%"/>
+    <img src="images/Jack_5.png" width="33%"/>
+</p>
 
 De percentielberekeningen hadden in dit concept geen extra waarde.
 
 ### Resultaten (N=3)
 #### Prototype
 Voor de add-on heb ik me gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder je horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij ons zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/a11dc529-1676-4385-8d01-556719e66663)
+<p>
+    <img src="images/glance_product.png" width="32%"/>
+    <img src="images/glance_oled.png" width="32%"/>
+    <img src="images/nx_glance.png" width="32%"/>
+</p>
 
 Eerste prototype:
+<p>
+    <img src="images/prototype_tante.jpg" width="32%"/>
+    <img src="images/nx_prototype.png" width="32%"/>
+    <img src="images/prototype_rense.jpg" width="32%"/>
+</p>
 
-![afbeelding](https://github.com/iamaes/UCD_SEM1/assets/160027482/480f5158-b01f-4682-831d-de2c5d78d3bf)
-
-Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten.
+Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie afbeelding rechts).
 Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonmisch ontworpen is en of er eventuele aanpassingen nodig zijn.
 
 #### Design requirements
-De ntwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
+De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
 
 Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
