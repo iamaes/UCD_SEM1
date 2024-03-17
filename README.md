@@ -114,9 +114,9 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
     <img src="images/voorbeeld_victoryapp.png" width="32%"/>
 </p>
 <p>
+    <img src="images/strava grafieken3.jpg" width="32%"/>
     <img src="images/victory_grafieken.jpg" width="32%"/>
     <img src="images/voorbeeld_victory_grafiek.png" width="32%"/>
-    <img src="images/strava grafieken3.jpg" width="32%"/>
 </p>
 <p>
     <img src="images/voorbeeld_victory_routebouwe.png" width="32%"/>
