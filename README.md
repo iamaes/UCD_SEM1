@@ -6,7 +6,7 @@
 24/01/2024
 
 ## Samenvatting
-Heden ondervinden talrijke hardlopers belemmeringen in de vorm van blessures. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende hun loopactiviteit hun loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers tijdens het hardlopen effectief te waarschuwen. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een led die de kleur rood aanneemt. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig. 
+Heden ondervinden talrijke hardlopers belemmeringen in de vorm van <mark>blessures</mark>. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende hun loopactiviteit hun loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers tijdens het hardlopen effectief te waarschuwen. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een led die de kleur rood aanneemt. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig. 
 
 Bovendien wordt een disciplinaire maatregel geassocieerd met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire sanctie neemt de vorm aan van een vermindering van de loopsnelheid, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
@@ -125,7 +125,7 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 
-Resultaat = Victory app, grafiek met rode balk onder de grafiek en een routebouwer. 
+<b>Resultaat= Victory app, grafiek met rode balk onder de grafiek en een routebouwer.</b> 
 
 ### Conclusies & implicaties
 Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
