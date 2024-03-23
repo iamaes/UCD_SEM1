@@ -193,8 +193,7 @@ Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze te
 
 #### Design requirements
 De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
-<img src="images/design_for_am.jpg" width="40%"/>
-
+<img src="images/design_for_am.jpg" width="70%"/>
 Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
 <img src="images/design_glance.png" width="40%"/>
