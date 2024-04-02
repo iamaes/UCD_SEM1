@@ -204,10 +204,12 @@ Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast word
 Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan de hand van een ‘expert review’ en usability testen kan aantonen welke optimalisaties je aanbracht.
 
 ### Materiaal en methoden
-
+Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
 
 ### Resultaten 
-#### Prototype
+#### Expert review N=2
+
+#### Usability test N=3
 
 
 #### Design requirements
@@ -237,7 +239,7 @@ We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig
   - [report](https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit)
   - [content](https://drive.google.com/drive/folders/1w9Qr2AmvEAt4PkxIzSWpBm2ejxYxww5P)
 - Develop 2
-  - [protocol]()
+  - [protocol](https://docs.google.com/document/d/1D4isi40TUDVPD3lp4BnleswRKbDjvO24pSrpGeoSJbE/edit)
   - [report]()
 - Develop 3
   - [protocol]()
