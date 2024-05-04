@@ -3,7 +3,7 @@
 
 *Ian Maes*
 
-24/01/2024
+24/05/2024
 
 ## Samenvatting
 Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende de loopactiviteit de loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers **tijdens het hardlopen effectief te waarschuwen**. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een **led die de kleur rood aanneemt**. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig.
