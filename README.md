@@ -211,14 +211,15 @@ Deze opdracht werd opgesplitst in twee waves: de expert review en de usability t
 In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten. Tot slot werden nog extra vragen en bedenkingen besproken. 
 Design requirements:
- tijdspannen zelf kunnen instellen
- geen groen lampje
- sensorband moet minder lijken op enkelband
+- tijdspannen zelf kunnen instellen
+- geen groen lampje
+- sensorband moet minder lijken op enkelband
 
 Verder werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de velcro hapert vaak aan het omhulsel van de sensor en de functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
  
 #### Usability test N=3
-
+Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uitgevoerd. Ditmaal met gewone testpersonen. 
+De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop hebben we verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Als je dan een locatie ingeeft zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna 
 
 #### Design requirements
 
