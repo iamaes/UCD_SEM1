@@ -201,14 +201,22 @@ Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast word
 
 ## Develop 2: Human Mind
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan je aan de hand van een ‘expert review’ en usability testen kan aantonen welke optimalisaties je aanbracht.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘expert review’ en usability testen soptimalisaties moeten worden aanbracht.
 
 ### Materiaal en methoden
 Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
 
 ### Resultaten 
 #### Expert review N=2
+In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
+Nadat de experts het prototype grondig bekeken en daarna uittesten. Tot slot werden nog extra vragen en bedenkingen besproken. 
+Design requirements:
+ tijdspannen zelf kunnen instellen
+ geen groen lampje
+ sensorband moet minder lijken op enkelband
 
+Verder werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de velcro hapert vaak aan het omhulsel van de sensor en de functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
+ 
 #### Usability test N=3
 
 
