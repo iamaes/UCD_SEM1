@@ -188,7 +188,7 @@ Voor de add-on heb ik me gebaseerd op een bestaand product, genaamd Glance[^3]. 
 Eerste prototype:
 <p>
     <img src="images/prototype_tante.jpg" width="28%"/>
-    <img src="images/nx_prototype.png" width="43%"/>
+    <img src="images/add-on_groen.png" width="43%"/>
     <img src="images/prototype_rense.jpg" width="28%"/>
 </p>
 
