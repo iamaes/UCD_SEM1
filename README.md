@@ -210,21 +210,44 @@ Deze opdracht werd opgesplitst in twee waves: de expert review en de usability t
 #### Expert review N=2
 In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten. Tot slot werden nog extra vragen en bedenkingen besproken. 
-Design requirements:
-- tijdspannen zelf kunnen instellen
-- geen groen lampje
-- sensorband moet minder lijken op enkelband
+
 
 Verder werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de velcro hapert vaak aan het omhulsel van de sensor en de functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
  
 #### Usability test N=3
 Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uitgevoerd. Ditmaal met gewone testpersonen. 
-De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop hebben we verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Als je dan een locatie ingeeft zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna 
+
+De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop hebben we verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Als je dan een locatie ingeeft zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
+Daarnaast was er een opmerking over het groene lampje. Als et lampje niet brandt bij lage impact, kan de loper denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als het groene lampje geleidelijk aan en uit gaat.
+
+#### Design requirements
+Vanuit de experts review:
+- tijdspannen zelf kunnen instellen
+- geen groen lampje
+- sensorband moet minder lijken op enkelband
+
+Vanuit de usability testen:
+- er moet een rood lampje op add-on
+- routebouwer toont routes aan de hand van gebruikers
+
+## Develop 2: Human Mind
+### Doelstellingen
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘hiërarchische taakanalyse’ en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
+
+### Materiaal en methoden
+
+
+### Resultaten 
+#### Hiërarchische taakanalyse
+
+ 
+#### User test N=3
+
 
 #### Design requirements
 
 ## Kritische reflectie
-De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
+//De vaststelling is dat de user test ons concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel ons concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
 We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die ons product aankopen willen namelijk al hun loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om ons product te kopen. 
 
 ## Bijlagen
