@@ -8,9 +8,9 @@
 ## Samenvatting
 Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende hun loopactiviteit hun loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers **tijdens het hardlopen effectief te waarschuwen**. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een **led die de kleur rood aanneemt**. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig.
 
-Bovendien wordt een **disciplinaire sanctie** geassocieerd met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
+Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hun suboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat zijn of haar afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
-Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. 
+Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. Met hulp van deze applicatie zal ook het sociale contact met vrienden bevorderd worden.
 <img src="images/heroschets_Def.jpg"/>
 
 
@@ -19,17 +19,17 @@ Victoris[^1] heeft lang onderzoek gedaan naar dit onderwerp en bedacht het idee 
 De ambitie is om het product succesvol op de markt te introduceren. 
 
 Randvoorwaarden:
-- gebruiksvriendelijk
-- aanpasbaar
+- gebruiksvriendelijkheid
+- aanpasbaarheid
 - visualisatie
 
 ## Methodologie
-Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en defintion. Dit is hieronder weergegeven in een dubbel diamond.
+Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en definition. Dit is hieronder weergegeven in een quadruple diamond.
 
 <img src="images/dubbel_diamond.png"/>
 
 ### problem discovery 
-In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
+In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
 Dit werd met volgende methodes aangepakt: 
 - Innovatrix
 - WWWWWH-model
@@ -38,11 +38,15 @@ Dit werd met volgende methodes aangepakt:
 ### problem definition
 Na het bespreken van alle problemen was er terug nood aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
-### problem discovery
+### solution discovery
 In de tweede fase werd opnieuw gedivergeerd met ideation en gingen we op bezoek in het sportlab in Gent. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
 
-### problem definition
+### solution shaping
 Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. Voor dit te verwezenlijken werden gerbuikerstesten gehouden. Via deze methode werden snelle en correcte beslissingen genomen. 
+
+### iterative build cycles (ideate - prototype - test)
+
+### finalize, implement
 
 ## Discovery
 ### Doelstellingen
@@ -211,7 +215,6 @@ Deze opdracht werd opgesplitst in twee waves: de expert review en de usability t
 In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten. Tot slot werden nog extra vragen en bedenkingen besproken. 
 
-
 Verder werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de velcro hapert vaak aan het omhulsel van de sensor en de functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
  
 #### Usability test N=3
@@ -235,7 +238,10 @@ Vanuit de usability testen:
 Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘hiërarchische taakanalyse’ en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
 
 ### Materiaal en methoden
-
+!app testen!
+groen lampje testen
+navigatie testen
+sensorband testen
 
 ### Resultaten 
 #### Hiërarchische taakanalyse
