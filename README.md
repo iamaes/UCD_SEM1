@@ -26,7 +26,7 @@ Randvoorwaarden:
 ## Methodologie
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en definition. Dit is hieronder weergegeven in een quadruple diamond.
 
-<img src="images/dubbel_diamond.png"/>
+<img src="images/methodologie.png"/>
 
 ### problem discovery 
 In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
@@ -61,7 +61,7 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 #### Benchmarking (N=8)
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
 
-<img src="images/problem-solution_matrix.png"/>
+<img src="images/problem_solution_matrix_groen.png"/>
 
 #### Sportlab Gent (30/11)
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat ik hieronder vermeld past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat we ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
