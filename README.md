@@ -32,7 +32,7 @@ Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en de
 In oktober ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
 Dit werd met volgende methodes aangepakt: 
 - Innovatrix
-- WHHHHH-model
+- WWWWWH-model
 - Problem Solution Matrix
 - Root-cause analysis
 ### problem definition
