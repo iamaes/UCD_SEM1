@@ -109,7 +109,7 @@ Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
 Met 3 verschillende vragen en telkens 3 verschillende prototypes, werd aan de slag gegaan. Ik heb 3 keuzes aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste genomen.
 
-De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om te kijken hoe gebruiksvriendelijk de interface was opgesteld. Daarna werd uitgelegd hoe het concept met de applicatie in elkaar zit. Na deze stappen kunnen de testpersonen een keuze maken. Welke applicatie het vaakst werd gekozen, wordt gebruikt in het ontwerp. 
+De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om te kijken hoe gebruiksvriendelijk de interface was opgesteld. Daarna werd uitgelegd hoe het concept met de applicatie in elkaar zit. Na deze stappen kunnen de testpersonen een keuze maken. Welke applicatie het vaakst werd gekozen, wordt verder uitgewerkt in dit ontwerp. 
 De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier hun voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de app.
 
 <p>
@@ -129,7 +129,7 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
 Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 
-**Resultaat= Victory app, grafiek met rode balk onder de grafiek en een routebouwer.**
+**Resultaat= aparte (Victory) app, rode balk onder de grafiek en een functie routebouwer.**
 
 ### Conclusies & implicaties
 Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. We zijn ons bewust dat we de add-on nog verder moeten ontwikkelen en nog moeten testen welk soort bandje, dikte, dichting... het best past.
