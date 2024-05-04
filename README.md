@@ -45,8 +45,9 @@ In de tweede fase werd opnieuw gedivergeerd met ideation en werd het sportlab in
 Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. Voor dit te verwezenlijken werden gerbuikerstesten gehouden. Via deze methode werden snelle en correcte beslissingen genomen. 
 
 ### iterative build cycles (ideate - prototype - test)
-
+In deze fase werd 3 maal de cyclus 'ideate - prototype - test' doorlopen. Telkens uit een andere invalshoek: *Human Body*, *Human Mind* en *Human Senses*. Telkens na een cyclus werden design requirements opgesteld. Op die manier werd duidelijk wat er in het concept nodig was en wat niet.
 ### finalize, implement
+...
 
 ## Discovery
 ### Doelstellingen
