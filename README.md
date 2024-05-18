@@ -210,8 +210,125 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 
 ### Materiaal en methoden
 Er werd ondertussen grondig verder gewerkt aan de add-on.
-In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. Hieronder is ook een afbeelding weergegeven.
-<img src="images/add-on_arduino.png" width="50%"/>
+In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
+
+```py
+#include <IRremote.h>
+#include <TimerFreeTone.h>
+
+#define buzPin 4
+
+IRrecv IR(7);
+int ledR = 10; // Rood
+int ledG = 9; // Groen
+int ledB = 11; // Blauw
+bool ledKleur = false;
+bool buzzerActive = false;
+
+unsigned long previousMillis = 0;
+unsigned long buzzerPreviousMillis = 0;
+const unsigned long buzzerInterval = 20000; // Buzzer interval in milliseconds
+
+void setup()
+{
+  IR.enableIRIn();
+  pinMode(ledR, OUTPUT);
+  pinMode(ledG, OUTPUT);
+  pinMode(ledB, OUTPUT);
+  pinMode(buzPin, OUTPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  unsigned long currentMillis = millis();
+  
+  // Check if it's time to activate the buzzer
+  if (ledKleur && (currentMillis - buzzerPreviousMillis >= buzzerInterval))
+  {
+    for (int t = 0; t < 750; t += 10)
+    {
+      TimerFreeTone(buzPin, t, 10);
+    }
+    buzzerPreviousMillis = currentMillis; // Reset the buzzer timer
+  }
+
+  if (IR.decode())
+  {
+    Serial.println(IR.decodedIRData.decodedRawData, HEX);
+    if (IR.decodedIRData.decodedRawData == 0xA15EFF00) // Knop 0 (Rood)
+
+    {
+      digitalWrite(ledR, HIGH);
+      digitalWrite(ledG, LOW);
+      digitalWrite(ledB, LOW); // ROOD
+      ledKleur = true;
+      buzzerPreviousMillis = currentMillis; // Reset the buzzer timer
+      for (int t = 0; t < 750; t += 10)
+      {
+        TimerFreeTone(buzPin, t, 10);
+      }
+    }
+    if (IR.decodedIRData.decodedRawData == 0xF30CFF00) // Knop 1 (Groen)
+    {
+      digitalWrite(ledR, LOW);
+      digitalWrite(ledG, HIGH);
+      digitalWrite(ledB, LOW);
+      ledKleur = false;
+    }
+    if (IR.decodedIRData.decodedRawData == 0xE916FF00) // Knop 0 (Uit)
+
+    {
+      digitalWrite(ledR, LOW); // BLAUW
+      digitalWrite(ledG, LOW);
+      digitalWrite(ledB, LOW);
+      ledKleur = false;
+    }
+    if (IR.decodedIRData.decodedRawData == 0xE718FF00) // Knop 3 (Oranje) 
+    {
+      analogWrite(ledR, 255);
+      analogWrite(ledG, 20);
+      digitalWrite(ledB, LOW); 
+      ledKleur = false;
+    }
+    if (IR.decodedIRData.decodedRawData == 0xF708FF00) // Knop 4 (Start 3 toggle)
+    {
+      digitalWrite(ledR, LOW);
+      digitalWrite(ledB, LOW);
+      digitalWrite(ledG, LOW);
+      delay(1000);
+      analogWrite(ledR, 255);
+      delay(1000);
+      digitalWrite(ledR, LOW);
+      digitalWrite(ledB, LOW);
+      digitalWrite(ledG, LOW);
+      delay(1000);
+      analogWrite(ledR, 255); 
+      analogWrite(ledG, 20); 
+      delay(1000);
+      digitalWrite(ledR, LOW);
+      digitalWrite(ledB, LOW);
+      digitalWrite(ledG, LOW);
+      delay(1000);
+      analogWrite(ledG, 255);
+      delay(1000);
+      digitalWrite(ledR, LOW);
+      digitalWrite(ledB, LOW);
+      digitalWrite(ledG, LOW);
+      ledKleur = false;
+      buzzerPreviousMillis = currentMillis; // Reset the buzzer timer
+      for (int t = 0; t < 750; t += 10)
+      {
+        TimerFreeTone(buzPin, t, 10);
+      }
+    }
+    
+    IR.resume();
+  }
+}
+```
+
+<img src="images/add-on_arduino.png" width="20%"/>
 
 Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
 
