@@ -211,6 +211,7 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 ### Materiaal en methoden
 Er werd ondertussen grondig verder gewerkt aan de add-on.
 In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. Hieronder is ook een afbeelding weergegeven.
+<img src="images/add-on_arduino.png" width="50%"/>
 
 Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
 
