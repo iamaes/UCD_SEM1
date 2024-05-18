@@ -212,6 +212,7 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 Er werd ondertussen grondig verder gewerkt aan de add-on.
 In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
 
+
 ```py
 #include <IRremote.h>
 #include <TimerFreeTone.h>
@@ -342,7 +343,7 @@ Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op 
 Er werden volgende zaken opgemerkt.:
 - De eerste expert zei dat de LED niet eerst groen moet worden. Het zal de loper meest waarschuwen als de LED ineens op oranje springt. Daarop had de tweede expert wel een andere inkijk. Die vertelde dat als de groene LED niet brandt bij lage impact, de loper kan denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als de groene LED geleidelijk aan en uit gaat.
 - De velkroband hapert te veel tijdens het aandoen.
-- De testpersonen plaatsten alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal een symbool geplaatst worden op de add-on.
+- De experts plaatsten allebei de add-on, met de LED, naar het hoofd. 
 - De sensor is quasi altijd gemakkelijk in te steken en uit te halen, maar af en toe komt er toch wat moeite bij kijken. 
 
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
@@ -355,9 +356,11 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
 
 Er werden volgende zaken opgemerkt.:
-
+- De velkroband hapert te veel tijdens het aandoen.
+- De testpersonen plaatsen ook hier alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal er een symbool geplaatst worden op de add-on.
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
-- Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood. 
+- Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
+- De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
 
 > [!IMPORTANT]
 > #### Design requirements
