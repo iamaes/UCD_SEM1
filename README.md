@@ -352,8 +352,7 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 
 
 #### Usability test N=3
-
-De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
+Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
 
 Er werden volgende zaken opgemerkt.:
 - De velkroband hapert te veel tijdens het aandoen.
@@ -361,6 +360,8 @@ Er werden volgende zaken opgemerkt.:
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
 - Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
 - De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
+
+De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
 
 > [!IMPORTANT]
 > #### Design requirements
