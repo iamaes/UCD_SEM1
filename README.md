@@ -1,12 +1,12 @@
 # Victory
-*Blessures bij lopers reduceren door middel van schokdetectie, die via een led en trilling wordt waargenomen.* 
+*Blessures bij lopers reduceren door middel van schokdetectie, die via een LED en trilling wordt waargenomen.* 
 
 *Ian Maes*
 
 24/05/2024
 
 ## Samenvatting
-Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor zij gedurende de loopactiviteit de loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers **tijdens het hardlopen effectief te waarschuwen**. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een **led die de kleur rood aanneemt**. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig.
+Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor de lopers gedurende de loopactiviteit de loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers **tijdens het hardlopen effectief te waarschuwen**. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een **LED die de kleur rood aanneemt**. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig.
 
 Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hetsuboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat de afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
@@ -72,7 +72,7 @@ Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet
 > "In wedstrijden loop ik nooit met muziek."
 
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met het volgende idee. 
-Dat was een eenvoudige licht strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. 
+Dat was een eenvoudige LED strip die de loper waarschuwt tijdens het lopen. Als het rood is, is de schokdetectie te hoog. 
 
 Er is ook een idee om met een straf te werken, aangezien de loper echt gedwongen moet worden om de loopstijl aan te passen. Dit zou een snelheidsvermindering zijn. Elke loper wil dit uiteraard vermijden. Dit werd wel genuanceerd tijdens een gesprek met andere studenten in Gent. Die kwamen met het inzicht dat mensen die het product kopen, sowieso iets willen veranderen aan de loopstijl. Daardoor zou de onnodig blijken. Dit wordt verder onderzocht. 
 
@@ -80,7 +80,7 @@ Alles is hieronder mooi weergeven in een tabel.
 
 ||1|2|3|4|  
 |---:|:---:|:---:|:---:|:---:|
-|Feedback: (muziek/waterrugzak/licht/trilling)|Trilling|Licht|Licht|Licht en Trilling|
+|Feedback: (muziek/waterrugzak/LED/trilling)|Trilling|LED|LED|LED en Trilling|
 |Ondergrond|90% verhard|2x/week piste, anders verhard|meestal verhard|1x/week pist, anders verhard|
 |Lopen met muziek|Soms|Nooit|Nooit|Altijd|
 
@@ -88,11 +88,11 @@ Alles is hieronder mooi weergeven in een tabel.
 De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
     1. Het real-time feedbacksysteem
     2. De dataweergave
-Dit zal verwezenlijkt worden door te werken met licht en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
+Dit zal verwezenlijkt worden door te werken met een LED en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
 
 ## Definition
 ### Doelstellingen
-Met de test in de eerste wave moet inzicht verworven worden in waar de loper de add-on (licht) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
+Met de test in de eerste wave moet inzicht verworven worden in waar de loper de add-on (LED) zou willen bevestigen en waar het gemakkelijk waarneembaar is, zonder hinder voor de gebruiker tijdens het lopen.
 Onderzoeksvraag 1: Hoe kan de loper gewaarschuwd worden via licht?
 In deze tweede wave werd onderzocht hoe de data weergeven wordt voor de loper. De testpersonen maken elk een keuze en daaruit werden de juist beslissingen maken.
 Onderzoeksvraag 2: Via welke applicatie en op welke manier wilt de gebruiker de data te zien krijgen? 
@@ -106,9 +106,9 @@ De user tests werd toegepast als methode.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
-Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van het lichtje. 
-Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of het lichtje op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren.
-Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat het lichtje in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (bijvoorbeeld op de schoen). **De add-on op het horloge was hierbij dan de populairste positie**.
+Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van de LED. 
+Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of de LED op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren.
+Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat de in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (bijvoorbeeld op de schoen). **De add-on op het horloge was hierbij dan de populairste positie**.
 
 #### Dataweergave (N=3)
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
@@ -195,9 +195,11 @@ Eerste prototype:
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie afbeelding rechts).
 Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonmisch ontworpen is en of er eventuele aanpassingen nodig zijn.
+Om de omtrek van de sensorband te bepalen, werden er, vanuit een steekproef met een volledige klasgroep en de testpersonen, afmetingen genomen van de omtrek van de enkels. Hieronder zijn de resultaten. Deze werden gebruikt om de sensorband mee te maken.
+De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt met als kleinste omtrek 19,5cm en als grootste omtrek 27 cm.
 
 #### Design requirements
-De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen.
+De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen. 
 <img src="images/design_for_am.png" width="70%"/>
 
 Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
@@ -210,7 +212,7 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 
 ### Materiaal en methoden
 Er werd ondertussen grondig verder gewerkt aan de add-on.
-In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. In de realiteit staat de add-on met Bluetooth in verbinding met de sensor. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
+In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zijn verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. In de realiteit staat de add-on met Bluetooth in verbinding met de sensor. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
 
 
 ```py
@@ -257,7 +259,7 @@ void loop()
   if (IR.decode())
   {
     Serial.println(IR.decodedIRData.decodedRawData, HEX);
-    if (IR.decodedIRData.decodedRawData == 0xA15EFF00) // Knop 0 (Rood)
+    if (IR.decodedIRData.decodedRawData == 0xA15EFF00) // Knop 3 (Rood)
 
     {
       digitalWrite(ledR, HIGH);
@@ -278,14 +280,13 @@ void loop()
       ledKleur = false;
     }
     if (IR.decodedIRData.decodedRawData == 0xE916FF00) // Knop 0 (Uit)
-
     {
-      digitalWrite(ledR, LOW); // BLAUW
+      digitalWrite(ledR, LOW); 
       digitalWrite(ledG, LOW);
       digitalWrite(ledB, LOW);
       ledKleur = false;
     }
-    if (IR.decodedIRData.decodedRawData == 0xE718FF00) // Knop 3 (Oranje) 
+    if (IR.decodedIRData.decodedRawData == 0xE718FF00) // Knop 2 (Oranje) 
     {
       analogWrite(ledR, 255);
       analogWrite(ledG, 20);
@@ -323,7 +324,18 @@ void loop()
         TimerFreeTone(buzPin, t, 10);
       }
     }
-    
+    if (IR.decodedIRData.decodedRawData == 0xE31CFF00) // Knop 5 (Groen ademen)
+    {
+      for (int i = 0; i <= 255; i++) {
+      analogWrite(ledG, i);
+      delay(10);  // stel de snelheid van de fade in
+      }
+      // Geleidelijk weer uit
+      for (int i = 255; i >= 0; i--) {
+      analogWrite(ledG, i);
+      delay(10);  // stel de snelheid van de fade in
+      }
+    }
     IR.resume();
   }
 }
@@ -370,7 +382,7 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 > - Tijdspanne zelf kunnen instellen.
 > - De mogelijkheid om de add-on op te laden.
 > - De lay-out van de interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
->   
+> 
 > Vanuit de usability testen:
 > - Er moet een rode LED op add-on.
 > - Tijdspanne zelf instellen.
@@ -397,7 +409,7 @@ Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uit
 
 ## Kritische reflectie
 //De vaststelling is dat de user test het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
-We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig blijkt. Lopers die het product aankopen willen namelijk al de loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe we die groep kunnen overtuigen om het product te kopen. 
+Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. Lopers die het product aankopen willen namelijk al de loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe die groep kan overtuigd worden om het product te kopen. 
 
 ## Bijlagen
 - Discovery
@@ -409,7 +421,7 @@ We moeten zeker ook nog eens rekening gaan houden met of de straf wel echt nodig
     - [protocol](https://docs.google.com/document/d/1Ds5i_zKur2OjnSJB4rF4CbEXlMRWsTcHIAqmpsxzQDc/edit)
     - [report](https://docs.google.com/document/d/1FYFXpTA5BVXFCcAXG7kBOfN_o8Z9limd2GxG5UwDKqg/edit)
 - Definition
-  - Led (Oscar Ortega Saez)
+  - LED (Oscar Ortega Saez)
     - [protocol](https://docs.google.com/document/d/14RKI3u73EJ5et9bNNRCVGS322qjNWHI3CRWDusgx7Ww/edit)
     - [content](https://drive.google.com/drive/folders/1RqDLnNr1HxHgYtXpxXUg87GblHZwHT1Z)
   - Dataweergave
