@@ -144,7 +144,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'V
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
 |Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
-|Sensorband|
+|Sensorband|https://www.movesense.com/shop/|
 
 ## Develop 1: Human Body
 ### Doelstellingen
@@ -206,33 +206,53 @@ Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast word
 
 ## Develop 2: Human Mind
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘expert review’ en usability testen soptimalisaties moeten worden aanbracht.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘expert review’ en usability testen optimalisaties moeten worden aanbracht.
 
 ### Materiaal en methoden
+Er werd ondertussen grondig verder gewerkt aan de add-on.
+In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zij verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. Hieronder is ook een afbeelding weergegeven.
+
 Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
 
 ### Resultaten 
 #### Expert review N=2
 In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
-Nadat de experts het prototype grondig bekeken en daarna uittesten. Tot slot werden nog extra vragen en bedenkingen besproken. 
+Nadat de experts het prototype grondig bekeken en daarna uittesten, werden nog extra vragen en bedenkingen besproken. 
 
-Verder werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de velcro hapert vaak aan het omhulsel van de sensor en de functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
- 
+Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de tijdspanne tussen de trilling, tijdens de rode LED, was nog steeds onbepaald. Er werd vastgesteld dat de loper best zijn eigen tijdspanne instelt. De functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
+
+Er werden volgende zaken opgemerkt.:
+- De eerste expert zei dat de LED niet eerst groen moet worden. Het zal de loper meest waarschuwen als de LED ineens op oranje springt. Daarop had de tweede expert wel een andere inkijk. Die vertelde dat als de groene LED niet brandt bij lage impact, de loper kan denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als de groene LED geleidelijk aan en uit gaat.
+- De velkroband hapert te veel tijdens het aandoen.
+- De testpersonen plaatsten alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal een symbool geplaatst worden op de add-on.
+- De sensor is quasi altijd gemakkelijk in te steken en uit te halen, maar af en toe komt er toch wat moeite bij kijken. 
+
+Daarnaast werden ook een aantal goede zaken aangekaart.: 
+- Dankzij de elasticiteit van de sensorband is hij heel stevig aan te spannen en blijft hij ten allen tijde op zijn plaats.
+- De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
+
+
 #### Usability test N=3
-Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uitgevoerd. Ditmaal met gewone testpersonen. 
 
 De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
-Daarnaast was er een opmerking over het groene lampje. Als et lampje niet brandt bij lage impact, kan de loper denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als het groene lampje geleidelijk aan en uit gaat.
 
-#### Design requirements
-Vanuit de experts review:
-- tijdspannen zelf kunnen instellen
-- geen groen lampje
-- sensorband moet minder lijken op enkelband
+Er werden volgende zaken opgemerkt.:
 
-Vanuit de usability testen:
-- er moet een rood lampje op add-on
-- routebouwer toont routes aan de hand van gebruikers
+Daarnaast werden ook een aantal goede zaken aangekaart.: 
+- Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood. 
+
+> [!IMPORTANT]
+> #### Design requirements
+> 
+> Vanuit de experts review:
+> - Tijdspanne zelf kunnen instellen.
+> - De mogelijkheid om de add-on op te laden.
+> - De lay-out van de interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
+>   
+> Vanuit de usability testen:
+> - Er moet een rode LED op add-on.
+> - Tijdspanne zelf instellen.
+> - Sensorband verbeteren qua uiterlijk.
 
 ## Develop 3: Human Senses
 ### Doelstellingen
@@ -249,7 +269,7 @@ sensorband testen
 
  
 #### User test N=3
-
+Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uitgevoerd. Ditmaal met de testpersonen. 
 
 #### Design requirements
 
