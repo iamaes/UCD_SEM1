@@ -369,6 +369,7 @@ Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
 Er werden volgende zaken opgemerkt.:
 - De velkroband hapert te veel tijdens het aandoen.
 - De testpersonen plaatsen ook hier alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal er een symbool geplaatst worden op de add-on.
+- De sensorband kan misschien ook eens in het wit gemaakt worden en dan testen welk kleur beter is.
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
 - Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
 - De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
@@ -380,13 +381,10 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 > 
 > Vanuit de experts review:
 > - Tijdspanne zelf kunnen instellen.
-> - De mogelijkheid om de add-on op te laden.
-> - De lay-out van de interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
-> 
-> Vanuit de usability testen:
+> - De mogelijkheid om de add-on van energie te voorzien.
+> - De interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
 > - Er moet oranje LED voor de rode LED op add-on.
-> - Tijdspanne zelf instellen.
-> - Sensorband misschien in het wit proberen.
+
 
 ## Develop 3: Human Senses
 ### Doelstellingen
