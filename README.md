@@ -403,27 +403,32 @@ Deze keuzes werden gemaakt met behulp van user tests.
 ### Resultaten 
 #### Hiërarchische taakanalyse
 
+<img src="images/hiërarchische_taakanalyse.png"/>
  
 #### User test N=3
-Uit deze taakanalyse werden volgende deelascpecten verder getailleerd.
-- 
+Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn de resultaten:
+- batterij:
+  - opladen met kabel
+- uitzicht:
+  - zwarte sensorband
+- LED RGB:
+ - geen licht bij lage schokken
+- applicatie:
+    - Rangschikkings knop in home scene.
+    - Een ronde opname knop.
+    - In de opname scene een homeknop.
+    - Ronde tijdsaanduiding.
+    - Aftelling zuiver horizontaal.
+    - Rapport weergeven met verschillende grafieken.
+    - Rapport scene beter met extra knoppen.
+    - Geen benaming bij knoppen.
 
 > [!IMPORTANT]
 > #### Design requirements
 >
 > De add-on moet oplaadbaar zijn, met een kabel.
-> De sensorband blijft zwart.
+> De sensorband is zwart.
 > Bij lage schokken blijft de LED gewoon uit.
-> 
-> Applicatie:
-> - Rangschikkings knop in home scene.
-> - Een ronde opname knop.
-> - In de opname scene een homeknop.
-> - Ronde tijdsaanduiding.
-> - Aftelling zuiver horizontaal.
-> - Rapport weergeven met verschillende grafieken.
-> - Rapport scene beter met extra knoppen.
-> - Geen benaming bij knoppen.
 
 ## Kritische reflectie
 De vaststelling is dat de user test het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
