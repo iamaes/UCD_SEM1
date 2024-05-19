@@ -212,7 +212,7 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 
 ### Materiaal en methoden
 Er werd ondertussen grondig verder gewerkt aan de add-on.
-In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zijn verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. In de realiteit staat de add-on met Bluetooth in verbinding met de sensor. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
+In bijlage zit een duidelijke video waarin de add-on wordt getoond en getest. Zoals daarin te zien, is er een  RGB LED (LED) vastgemaakt op de add-on. De LED kan veranderen van kleur en zal zo de lopers waarschuwen. Ook is er een trilmotor voorzien die de loper extra waarschuwd, wanneer er met de rode LED wordt gelopen. Deze twee componenten zijn verbonden met een arduino. Op die arduino zit een infraroodsensor. Voor te testen werd gebruik gemaakt van de wizard of oz methode. Op die manier kon de LED van op afstand bediend, terwijl de loper het prototype test. In de realiteit staat de add-on met Bluetooth in verbinding met de sensor. Onderstaand code werd in Arduino IDE geprogrameerd. Daaronder is ook nog een afbeelding weergegeven.
 
 
 ```py
@@ -384,9 +384,9 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 > - De lay-out van de interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
 > 
 > Vanuit de usability testen:
-> - Er moet een rode LED op add-on.
+> - Er moet oranje LED voor de rode LED op add-on.
 > - Tijdspanne zelf instellen.
-> - Sensorband verbeteren qua uiterlijk.
+> - Sensorband misschien in het wit proberen.
 
 ## Develop 3: Human Senses
 ### Doelstellingen
@@ -395,10 +395,10 @@ Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de h
 ### Materiaal en methoden
 Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in verband met de sensorband en add-on. Andere dan weer met de applicatie. Deze applicatie kreeg een flinke opknapbeurt. Uit vorige deelopdracht bleek namelijk dat de functionaliteiten wel goed zaten, maar het uiterlijk nog veel beter kon. Daarop werden 3 gelijke applicaties gemaakt, maar telkens met subtiele verschillen om op die manier aan de testpersonen te vragen welke ze verkiezen. Uit al deze keuzes werd dan 1 finale applicatie gemaakt. Hieronder kunt u al de 4 hoofdscenes op een rij zien.
 
-!app testen!
-groen lampje testen
-navigatie testen
-sensorband testen
+<img src="images/vier_scenes.png" width="100%"/>
+
+Daarnaast werden ook nog vragen gesteld of de LED eventueel groen kan 'ademen' in plaats van helemaal uit. Ook de sensorband werd in het wit gemaakt. 
+Deze keuzes werden gemaakt met behulp van user tests.
 
 ### Resultaten 
 #### Hiërarchische taakanalyse
@@ -407,10 +407,25 @@ sensorband testen
 #### User test N=3
 Na het ontwerpen van een nieuwe interface, voor de applicatie, werden nieuwe testen uitgevoerd. Ditmaal met de testpersonen. 
 
-#### Design requirements
+> [!IMPORTANT]
+> #### Design requirements
+>
+> De add-on moet oplaadbaar zijn, met een kabel.
+> De sensorband blijft zwart.
+> Bij lage schokken blijft de LED gewoon uit.
+> 
+> Applicatie:
+> - Rangschikkings knop in home scene.
+> - Een ronde opname knop.
+> - In de opname scene een homeknop.
+> - Ronde tijdsaanduiding.
+> - Aftelling zuiver horizontaal.
+> - Rapport weergeven met verschillende grafieken.
+> - Rapport scene beter met extra knoppen.
+> - Geen benaming bij knoppen.
 
 ## Kritische reflectie
-//De vaststelling is dat de user test het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
+De vaststelling is dat de user test het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
 Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. Lopers die het product aankopen willen namelijk al de loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe die groep kan overtuigd worden om het product te kopen. 
 
 ## Bijlagen
@@ -438,10 +453,12 @@ Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. 
   - [content](https://drive.google.com/drive/folders/15DMeSZ1deatgWpHPhC_Md29zQ8SQLxcL)
   - [report](https://docs.google.com/document/d/14lkTnhygynz4IRsV_9h-YdKm0Tds50YIHdFEBZeTIg4/edit)
 - Develop 3
-  - [protocol]()
-  - [report]()
+  - [protocol](https://docs.google.com/document/d/1W3FYAAPSdmzL2gCnENVWhxrBk0Qv3ZmPza0EpiSr0zc/edit)
+  - [content_protocol](https://drive.google.com/drive/folders/1h_ir-iSQ5fhNMbCP564f0-E8MFREXC9T)
+  - [content_report](https://drive.google.com/drive/folders/1mjphxrJCp-d5z5XsD5w_k_oEG3GS6cIJ)
+  - [report](https://docs.google.com/document/d/1d-04iPY_rcxMElfMVuiAGdHJKzOyZQHkK5JLwmDVuho/edit)
 
-Het miro-board: https://miro.com/app/board/uXjVNeHs5e4=/ 
+Het miro-board (enkel gebruikt tijdens de discovery en definition): https://miro.com/app/board/uXjVNeHs5e4=/ 
 
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
