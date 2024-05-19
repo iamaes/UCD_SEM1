@@ -403,7 +403,7 @@ Deze keuzes werden gemaakt met behulp van user tests.
 ### Resultaten 
 #### Hiërarchische taakanalyse
 
-<img src="images/hiërarchische_taakanalyse.png"/>
+<img src="images/hiërarchische_taakanalyse.png" width="50%"/>
  
 #### User test N=3
 Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn de resultaten:
