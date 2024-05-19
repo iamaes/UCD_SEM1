@@ -189,7 +189,7 @@ Voor de add-on werd gebaseerd op een bestaand product, genaamd Glance[^3]. Dit i
 Eerste prototype:
 <p>
     <img src="images/prototype_tante.jpg" width="28%"/>
-    <img src="images/add-on_groen.png" width="43%"/>
+    <img src="images/nx_prototype.png" width="43%"/>
     <img src="images/prototype_rense.jpg" width="28%"/>
 </p>
 
@@ -393,6 +393,8 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘hiërarchische taakanalyse’ en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
 
 ### Materiaal en methoden
+Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in verband met de sensorband en add-on. Andere dan weer met de applicatie. Deze applicatie kreeg een flinke opknapbeurt. Uit vorige deelopdracht bleek namelijk dat de functionaliteiten wel goed zaten, maar het uiterlijk nog veel beter kon. Daarop werden 3 gelijke applicaties gemaakt, maar telkens met subtiele verschillen om op die manier aan de testpersonen te vragen welke ze verkiezen. Uit al deze keuzes werd dan 1 finale applicatie gemaakt. Hieronder kunt u al de 4 hoofdscenes op een rij zien.
+
 !app testen!
 groen lampje testen
 navigatie testen
