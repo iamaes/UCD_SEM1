@@ -31,15 +31,15 @@ Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en de
 ### problem discovery 
 In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
 Dit werd met volgende methodes aangepakt: 
-- Innovatrix
+- *Innovatrix*
 - WWWWWH-model
-- Problem Solution Matrix
-- Root-cause analysis
+- *Problem Solution Matrix*
+- *Root-cause analysis*
 ### problem definition
 Na het bespreken van alle problemen was er terug nood aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
 ### solution discovery
-In de tweede fase werd opnieuw gedivergeerd met ideation en werd het sportlab in Gent bezocht. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
+In de tweede fase werd opnieuw gedivergeerd met *ideation* en werd het sportlab in Gent bezocht. Dit was een heel interessant bezoek, aangezien er veel feedback en feedforward werd gegeven door experten. Ze waren enthousiast over het idee om te werken met leds. Daarna moesten ideeën gegenereerd worden. Het prototypen kon beginnen.
 
 ### solution shaping
 Daarna moest opnieuw een keuze gemaakt worden tussen verschillende prototypes. Voor dit te verwezenlijken werden gerbuikerstesten gehouden. Via deze methode werden snelle en correcte beslissingen genomen. 
@@ -56,11 +56,11 @@ Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveer
 De volledige ruimte werd eerst onderzocht aan de hand van:
 - Benchmarking
 - Sportlab Gent
-- User interviews
+- *User interviews*
 
 ### Resultaten
 #### Benchmarking (N=8)
-Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van benchmarking. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
+Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van *benchmarking*. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
 
 <img src="images/problem_solution_matrix_groen.png"/>
 
@@ -68,7 +68,7 @@ Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd
 Dit werd zoals vermeld eigenlijk later pas gedaan, maar wat hieronder vermeld wordt past beter bij de *discovery* fase. Een inzicht dat daar gegeven werd, was dat ook de iets minder gedreven lopers zich moeten aangesproken voelen. Het zijn dan namelijk ook vaak deze lopers die te kampen krijgen met blessures [^2]. Ook sinds Corona zijn er veel mensen die ineens beginnen sporten. Deze groep is uiteraard niet zo fysiek in orde zoals echt sporters. Daarom moet zeker bekeken worden hoe deze groep kan aangezet worden tot het kopen van het product.
 
 #### User interviews (N=4)
-Om de probleemruimte grondig te analyseren kon een user interview uiteraard niet ontbreken. Op die manier wordt met de toekomstige gebruikers kort op de bal gespeeld. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken.
+Om de probleemruimte grondig te analyseren kon een *user interview* uiteraard niet ontbreken. Op die manier wordt met de toekomstige gebruikers kort op de bal gespeeld. Vaak worden hier ook nieuwe inzichten gegeven of worden vermoedens bevestigd. Na de korte ondervraging werd snel duidelijk dat doorgaan met het audio-systeem niet zou werken.
 > "In wedstrijden loop ik nooit met muziek."
 
 Ook het idee van de waterrugzak, die afhankelijk van de schokdetectie wel of geen water doorliet, werd snel de kop ingedrukt. Dit was te bruut en ook moeilijk in gebruik. Zeker in vergelijking met het volgende idee. 
@@ -102,7 +102,7 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 - 3 verschillende applicaties
 De Victory-applicatie is zelf ontworpen. Het is een 'zelfstandige' applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
 
-De user tests werd toegepast als methode.
+De *user tests* werd toegepast als methode.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
@@ -148,7 +148,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte applic
 
 ## Develop 1: Human Body
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘anthropometrische analyse en user test kan aangetoont wordeb welke optimalisaties moeten aangebracht worden op het vlak van de fysieke ergonomie.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een anthropometrische analyse en *user tests* kan aangetoont wordeb welke optimalisaties moeten aangebracht worden op het vlak van de fysieke ergonomie.
 
 ### Materiaal en methoden
 Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
@@ -208,7 +208,7 @@ Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast word
 
 ## Develop 2: Human Mind
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘expert review’ en usability testen optimalisaties moeten worden aanbracht.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een *expert review* en *usability tests* optimalisaties moeten worden aanbracht.
 
 ### Materiaal en methoden
 Er werd ondertussen grondig verder gewerkt aan de add-on.
@@ -343,11 +343,11 @@ void loop()
 
 <img src="images/add-on_arduino.png" width="20%"/>
 
-Deze opdracht werd opgesplitst in twee waves: de expert review en de usability test. 
+Deze opdracht werd opgesplitst in twee waves: de *expert review* en de *usability tests*. 
 
 ### Resultaten 
 #### Expert review N=2
-In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
+In de *expert review* werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten, werden nog extra vragen en bedenkingen besproken. 
 
 Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de tijdspanne tussen de trilling, tijdens de rode LED, was nog steeds onbepaald. Er werd vastgesteld dat de loper best zijn eigen tijdspanne instelt. De functionaliteit van de applicatie is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
@@ -379,7 +379,6 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 > [!IMPORTANT]
 > #### Design requirements
 > 
-> Vanuit de experts review:
 > - Tijdspanne zelf kunnen instellen.
 > - De mogelijkheid om de add-on van energie te voorzien.
 > - De interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
@@ -388,7 +387,7 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 
 ## Develop 3: Human Senses
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een ‘hiërarchische taakanalyse’ en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een hiërarchische taakanalyse en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
 
 ### Materiaal en methoden
 Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in verband met de sensorband en add-on. Andere dan weer met de applicatie. Deze applicatie kreeg een flinke opknapbeurt. Uit vorige deelopdracht bleek namelijk dat de functionaliteiten wel goed zaten, maar het uiterlijk nog veel beter kon. Daarop werden 3 gelijke applicaties gemaakt, maar telkens met subtiele verschillen om op die manier aan de testpersonen te vragen welke ze verkiezen. Uit al deze keuzes werd dan 1 finale applicatie gemaakt. Hieronder kunt u al de 4 hoofdscenes op een rij zien.
@@ -396,7 +395,7 @@ Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in v
 <img src="images/vier_scenes.png" width="100%"/>
 
 Daarnaast werden ook nog vragen gesteld of de LED eventueel groen kan 'ademen' in plaats van helemaal uit. Ook de sensorband werd in het wit gemaakt. 
-Deze keuzes werden gemaakt met behulp van user tests.
+Deze keuzes werden gemaakt met behulp van *user tests*.
 
 ### Resultaten 
 #### Hiërarchische taakanalyse
@@ -429,16 +428,16 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
 > Bij lage schokken blijft de LED gewoon uit.
 
 ## Kritische reflectie
-De vaststelling is dat de user test het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
+De vaststelling is dat de *user tests* het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
 Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. Lopers die het product aankopen willen namelijk al de loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe die groep kan overtuigd worden om het product te kopen. 
 
 ## Bijlagen
 - Discovery
-  - Benchmarking
+  - *Benchmarking*
     - [report](https://docs.google.com/document/d/1JfUbHos3zhybmaLJP-YiFlEOg0O1E8SZYjdd3L35vJQ/edit)
   - Sportlab Gent 
     - [report](https://docs.google.com/document/d/1eVAYHaiM8YtlSQzIp9O4Rh9jSH3_wspkmVG7wBDYLsU/edit)
-  - User interviews
+  - *User interviews*
     - [protocol](https://docs.google.com/document/d/1Ds5i_zKur2OjnSJB4rF4CbEXlMRWsTcHIAqmpsxzQDc/edit)
     - [report](https://docs.google.com/document/d/1FYFXpTA5BVXFCcAXG7kBOfN_o8Z9limd2GxG5UwDKqg/edit)
 - Definition
