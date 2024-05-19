@@ -10,7 +10,7 @@ Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**
 
 Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hetsuboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat de afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
-Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze app geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. Met hulp van deze applicatie zal ook het sociale contact met vrienden bevorderd worden.
+Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze applicatie geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. Met hulp van deze applicatie zal ook het sociale contact met vrienden bevorderd worden.
 <img src="images/heroschets_Def.jpg"/>
 
 
@@ -100,7 +100,7 @@ Onderzoeksvraag 2: Via welke applicatie en op welke manier wilt de gebruiker de 
 Deze onderzoeksvragen werden ondervraagd met volgende materialen: 
 - Led
 - 3 verschillende applicaties
-De Victory-app is zelf ontworpen. Het is een 'zelfstandige' app waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
+De Victory-applicatie is zelf ontworpen. Het is een 'zelfstandige' applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
 
 De user tests werd toegepast als methode.
 
@@ -115,7 +115,7 @@ De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerb
 Met 3 verschillende vragen en telkens 3 verschillende prototypes, werd aan de slag gegaan. 3 keuzes werden aan 3 verschillende testpersonen (lopers) voorgesteld en daaruit de beste genomen.
 
 De testpersonen werden gevraagd om met het prototype aan de slag te gaan. Dit om te kijken hoe gebruiksvriendelijk de interface was opgesteld. Daarna werd uitgelegd hoe het concept met de applicatie in elkaar zit. Na deze stappen kunnen de testpersonen een keuze maken. Welke applicatie het vaakst werd gekozen, wordt verder uitgewerkt in dit ontwerp. 
-De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier een voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de app.
+De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wordt grafisch weergegeven in grafieken. Ook dit kan op verschillende manieren. De testpersonen mochten ook hier een voorkeur uitspreken. Tot slot werd in de discovery fase duidelijk dat de ondergrond belangrijk is voor de grote van de schokken. Daarom werd gepolst of een routebouwer, die een route maakt met de zachtste ondergrond, kan geïmplementeerd worden in de applicatie.
 
 <p>
     <img src="images/voorbeeld_stravaapp.png" width="32%"/>
@@ -131,14 +131,14 @@ De eerste keuze werd gemaakt op basis van waar de data terecht komt. De data wor
     <img src="images/voorbeeld_victory_routebouwe.png" width="32%"/>
 </p>
 
-Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory app. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
+Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory-applicatie. De meeste mensen houden liever de zaken uit elkaar en willen geen zaken verwarren met elkaar. Bij de tweede keuze koos opnieuw 3/3 voor de tweede optie, met de rode balken onder de grafiek. Deze grafiek vonden ze het duidelijkst. Tenslotte bij de derde keuze vond één iemand het niet per se nodig, maar mag wel. De andere twee vonden het wel een handige functie, die ze zouden gebruiken. 
 > "Ik had vandaag de routebouwer kunnen gebruiken, want de weg lag er echt slecht bij."
 
-**Resultaat= aparte (Victory) app, rode balk onder de grafiek en een functie routebouwer.**
+**Resultaat= aparte (Victory) applicatie, rode balk onder de grafiek en een functie routebouwer.**
 
 ### Conclusies & implicaties
 Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. Ook is het feit dat de add-on nog verder moeten ontwikkelen en nog moet getest worden welk soort bandje, dikte, dichting... het best past.
-Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte app 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een functie routebouwer in de app. 
+Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte applicatie 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een functie routebouwer in de applicatie. 
 
 ## Bill of materials
 |Materialen|Prijs|Link|  
@@ -350,7 +350,7 @@ Deze opdracht werd opgesplitst in twee waves: de expert review en de usability t
 In de expert review werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten, werden nog extra vragen en bedenkingen besproken. 
 
-Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de tijdspanne tussen de trilling, tijdens de rode LED, was nog steeds onbepaald. Er werd vastgesteld dat de loper best zijn eigen tijdspanne instelt. De functionaliteit van de app is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
+Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op te laden, de tijdspanne tussen de trilling, tijdens de rode LED, was nog steeds onbepaald. Er werd vastgesteld dat de loper best zijn eigen tijdspanne instelt. De functionaliteit van de applicatie is goed, maar moet visueel veel beter. Dit laatste vertaald zich in: het lettertype, het kleurgebruik, animaties...
 
 Er werden volgende zaken opgemerkt.:
 - De eerste expert zei dat de LED niet eerst groen moet worden. Het zal de loper meest waarschuwen als de LED ineens op oranje springt. Daarop had de tweede expert wel een andere inkijk. Die vertelde dat als de groene LED niet brandt bij lage impact, de loper kan denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als de groene LED geleidelijk aan en uit gaat.
@@ -373,7 +373,7 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 - Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
 - De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
 
-De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de app te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
+De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de applicatie te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
 
 > [!IMPORTANT]
 > #### Design requirements
@@ -403,7 +403,7 @@ sensorband testen
 
  
 #### User test N=3
-Na het ontwerpen van een nieuwe interface, voor de app, werden nieuwe testen uitgevoerd. Ditmaal met de testpersonen. 
+Na het ontwerpen van een nieuwe interface, voor de applicatie, werden nieuwe testen uitgevoerd. Ditmaal met de testpersonen. 
 
 #### Design requirements
 
