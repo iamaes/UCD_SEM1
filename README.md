@@ -405,7 +405,8 @@ Deze keuzes werden gemaakt met behulp van user tests.
 
  
 #### User test N=3
-Na het ontwerpen van een nieuwe interface, voor de applicatie, werden nieuwe testen uitgevoerd. Ditmaal met de testpersonen. 
+Uit deze taakanalyse werden volgende deelascpecten verder getailleerd.
+- 
 
 > [!IMPORTANT]
 > #### Design requirements
