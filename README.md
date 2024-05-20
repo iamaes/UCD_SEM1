@@ -29,12 +29,8 @@ Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en de
 <img src="images/Methodologie.png"/>
 
 ### problem discovery 
-In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
-Dit werd met volgende methodes aangepakt: 
-- *Innovatrix*
-- WWWWWH-model
-- *Problem Solution Matrix*
-- *Root-cause analysis*
+In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Het is belangrijk om elk detail van de opdracht te kennen. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
+
 ### problem definition
 Na het bespreken van alle problemen was er terug nood aan eenduidigheid. Aan de hand van *user interviews* werd geconvergeerd naar het idee om het auditieve interferentie aan te pakken. Ook het sociale contact zal geïntroduceerd worden.
 
@@ -55,8 +51,12 @@ Tot slot werden renders gegenereerd en een demo video opgemaakt. Zo is het conce
 Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveerd moeten worden en hoe dit verwezenlijk kan worden.
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
-- *Benchmarking*
-- *User interviews*
+- *Innovatrix*
+- WWWWWH-model
+- *Problem Solution Matrix*
+- *Root-cause analysis*
+
+Om deze methodes toe te passen moest er eerst aan *benchmarking* en *user interviews* gedaan worden.
 
 ### Resultaten
 #### Benchmarking (N=8)
@@ -96,14 +96,14 @@ Met de test in de eerste wave moet inzicht verworven worden in waar de loper de 
 Onderzoeksvraag 1: Hoe kan de loper gewaarschuwd worden via licht?
 In deze tweede wave werd onderzocht hoe de data weergeven wordt voor de loper. De testpersonen maken elk een keuze en daaruit werden de juist beslissingen maken.
 Onderzoeksvraag 2: Via welke applicatie en op welke manier wilt de gebruiker de data te zien krijgen? 
+
 ### Materiaal & methoden
 Deze onderzoeksvragen werden ondervraagd met volgende materialen: 
 - Led
 - 3 verschillende applicaties
-De Victory-applicatie is zelf ontworpen. Het is een 'zelfstandige' applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
+De Victory-applicatie is zelf ontworpen. Het is een zelfstandige applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
 
-COCD analyse werd hier als methode toegepast.
-Hierop werden *user tests* toegepast.
+Na de brainstorm fase werden er *user tests* toegepast.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
