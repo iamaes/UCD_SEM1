@@ -361,7 +361,8 @@ Er werden volgende zaken opgemerkt.:
 
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
 - Dankzij de elasticiteit van de sensorband is hij heel stevig aan te spannen en blijft hij ten allen tijde op zijn plaats.
-- De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
+
+> "De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt."
 
 
 #### Usability test N=3
