@@ -85,7 +85,7 @@ Alles is hieronder mooi weergeven in een tabel.
 |Lopen met muziek|Soms|Nooit|Nooit|Altijd|
 
 ### Conclusies & implicaties
-De coclusie ehieruit is dat er 2 specifieke zaken moeten aangepakt worden:
+De conclusie hieruit is dat er 2 specifieke zaken moeten aangepakt worden:
     1. Het real-time feedbacksysteem
     2. De dataweergave
 Dit zal verwezenlijkt worden door te werken met een LED en trilling. Dit om de loper te waarschuwen. Daarnaast wordt data schematisch weergegeven op een applicatie. Hoe en wat wordt onderzocht in de volgende fase: Definition.
