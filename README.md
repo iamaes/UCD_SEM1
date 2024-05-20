@@ -26,7 +26,7 @@ Randvoorwaarden:
 ## Methodologie
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en definition. Dit is hieronder weergegeven in een quadruple diamond.
 
-<img src="images/Methodologie.png"/>
+<img src="images/methodologie.png"/>
 
 ### problem discovery 
 In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Het is belangrijk om elk detail van de opdracht te kennen. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
@@ -103,7 +103,8 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 - 3 verschillende applicaties
 De Victory-applicatie is zelf ontworpen. Het is een zelfstandige applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
 
-Na de brainstorm fase werden er *user tests* toegepast.
+Als methode werd de *focus group* gebruikt.
+Na de brainstorm fase werden er *user tests* en *user interviews* toegepast.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
@@ -463,7 +464,8 @@ Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. 
   - [content_report](https://drive.google.com/drive/folders/1mjphxrJCp-d5z5XsD5w_k_oEG3GS6cIJ)
   - [report](https://docs.google.com/document/d/1d-04iPY_rcxMElfMVuiAGdHJKzOyZQHkK5JLwmDVuho/edit)
 
-Het miro-board (enkel gebruikt tijdens de discovery en definition): https://miro.com/app/board/uXjVNeHs5e4=/ 
+Het miro-board (enkel gebruikt tijdens de discovery en definition): 
+[miro](https://miro.com/app/board/uXjVNeHs5e4=/)
 
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
