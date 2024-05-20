@@ -55,7 +55,7 @@ Tot slot werden renders gegenereerd en een demo video opgemaakt. Zo is het conce
 Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveerd moeten worden en hoe dit verwezenlijk kan worden.
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
-- Benchmarking
+- *Benchmarking*
 - Sportlab Gent
 - *User interviews*
 
