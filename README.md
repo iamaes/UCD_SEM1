@@ -56,7 +56,6 @@ Het doel is om een duidelijk inzicht te krijgen in welke deelaspecten geïnoveer
 ### Materiaal & methoden
 De volledige ruimte werd eerst onderzocht aan de hand van:
 - *Benchmarking*
-- Sportlab Gent
 - *User interviews*
 
 ### Resultaten
@@ -103,7 +102,8 @@ Deze onderzoeksvragen werden ondervraagd met volgende materialen:
 - 3 verschillende applicaties
 De Victory-applicatie is zelf ontworpen. Het is een 'zelfstandige' applicatie waarop alle data kan verschijnen, in verband met een loopsessie en schokdetectie.
 
-De *user tests* werd toegepast als methode.
+COCD analyse werd hier als methode toegepast.
+Hierop werden *user tests* toegepast.
 
 ### Resultaten
 #### Real-time feedbacksysteem (N=3)
