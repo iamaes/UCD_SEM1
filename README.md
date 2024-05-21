@@ -200,11 +200,12 @@ Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze te
 Om de omtrek van de sensorband te bepalen, werden er, vanuit een steekproef met een volledige klasgroep en de testpersonen, afmetingen genomen van de omtrek van de enkels. Hieronder zijn de resultaten. Deze werden gebruikt om de sensorband mee te maken.
 De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt met als kleinste omtrek 19,5cm en als grootste omtrek 27 cm.
 
-#### Design requirements
-De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen. 
+> [!IMPORTANT]
+> #### Design requirements
+> De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen. 
 <img src="images/design_for_am.png" width="70%"/>
 
-Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat hij er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
+> Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat het er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
 
 <img src="images/design_glance.png" width="40%"/>
 
@@ -361,10 +362,9 @@ Er werden volgende zaken opgemerkt.:
 - De sensor is quasi altijd gemakkelijk in te steken en uit te halen, maar af en toe komt er toch wat moeite bij kijken. 
 
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
-- Dankzij de elasticiteit van de sensorband is hij heel stevig aan te spannen en blijft hij ten allen tijde op zijn plaats.
+- Dankzij de elasticiteit van de sensorband is het heel stevig aan te spannen en blijft het ten allen tijde op zijn plaats.
 
 > "De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt."
-
 
 #### Usability test N=3
 Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
@@ -375,18 +375,22 @@ Er werden volgende zaken opgemerkt.:
 - De sensorband kan misschien ook eens in het wit gemaakt worden en dan testen welk kleur beter is.
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
 - Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
-- De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt.
 
 De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de applicatie te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
 
 > [!IMPORTANT]
 > #### Design requirements
-> 
-> - Tijdspanne zelf kunnen instellen.
-> - De mogelijkheid om de add-on van energie te voorzien.
-> - De interface moet aantrekkelijker. De functionaliteit in de applicatie is wel al goed.
-> - Er moet oranje LED voor de rode LED op add-on.
-
+>
+> Tijdspanne tussen trillingen, als loper, zelf kunnen instellen.
+> De LED moet voor de rode LED eerst oranje zijn.
+> De add-on moet oplaadbaar zijn.
+> De add-on wordt geplaatst met de LED richting het hoofd van de loper.
+> De functionaliteit van de applicatie zit goed.
+> De belastingscurve is erg interessant.
+> De interface moet aantrekkelijker.
+> De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen.
+> De sensorband moet smaller, zodat die minder hapert.
+> De elasticiteit in de sensorband is zeer goed om aan te spannen.
 
 ## Develop 3: Human Senses
 ### Doelstellingen
@@ -429,6 +433,48 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
 > De add-on moet oplaadbaar zijn, met een kabel.
 > De sensorband is zwart.
 > Bij lage schokken blijft de LED gewoon uit.
+> Applicatie:
+    - Rangschikkings knop in home scene.
+    - Een ronde opname knop.
+    - In de opname scene een homeknop.
+    - Ronde tijdsaanduiding.
+    - Aftelling zuiver horizontaal.
+    - Rapport weergeven met verschillende grafieken.
+    - Rapport scene beter met extra knoppen.
+    - Geen benaming bij knoppen.
+
+
+## Design  requirements
+
+| ID | Design Requirement | Bron |
+| --- | --- | --- |
+| **Deel 1** | **Add-on** |
+| 1.1 | De ontwerpstrategie voor de add-on is *design for more types* | Develop 1: antropometrische analyse |
+| 1.2 | De uitsparing van de add-on, om de horlogeband in plaatsen, moet dieper. | Develop 1: antropometrische analyse |
+| 1.3 | Tijdspanne tussen trillingen, als loper, zelf kunnen instellen. | Develop 2: *expert review* |
+| 1.4 | De LED moet voor de rode LED eerst oranje zijn. | Develop 2: *expert review* |
+| 1.5 | De add-on moet oplaadbaar zijn. | Develop 2: *expert review* |
+| 1.6 | De add-on wordt geplaatst met de LED richting het hoofd van de loper. | Develop 2: *expert review* en *usability tests* |
+| 1.7 | De add-on moet oplaadbaar zijn, met een kabel. | Develop 3: *user tests* |
+| 1.8 | Bij lage schokken is de LED gewoon uit. | Develop 3: *user tests* |
+| **Deel 2** | **Applicatie** |
+| 2.1 | De functionaliteit van de applicatie zit goed. | Develop 2: *expert review* |
+| 2.2 | De belastingscurve is erg interessant. | Develop 2: *expert review* |
+| 2.3 | De interface moet aantrekkelijker. | Develop 2: *expert review* |
+| 2.4 | De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen. | Develop 2: *usability tests* |
+| 2.5 | Rangschikkings knop in home scene. | Develop 3: *user tests* |
+| 2.6 | Een ronde opname knop. | Develop 3: *user tests* |
+| 2.7 | In de opname scene een homeknop. | Develop 3: *user tests* |
+| 2.8 | Ronde tijdsaanduiding. | Develop 3: *user tests* |
+| 2.9 | Aftelling zuiver horizontaal. | Develop 3: *user tests* |
+| 2.10 | Rapport weergeven met verschillende grafieken. | Develop 3: *user tests* |
+| 2.11 | Rapport scene beter met extra knoppen. | Develop 3: *user tests* |
+| 2.12 | Geen benaming bij knoppen. | Develop 3: *user tests* |
+| **Deel 3** | **Sensorband** |
+| 3.1 | Bij de sensorband moet *design for adjustability* toegepast worden. | Develop 1: antropometrische analyse |
+| 3.2 | De sensorband moet smaller, zodat die minder hapert. | Develop 2: *expert review* en *usability tests* |
+| 3.3 | De elasticiteit in de sensorband is zeer goed om aan te spannen. | Develop 2: *expert review* |
+| 3.4 | De sensorband is zwart. | Develop 3: *user tests* |
 
 ## Kritische reflectie
 De vaststelling is dat de *user tests* het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
