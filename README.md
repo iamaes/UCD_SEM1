@@ -499,8 +499,8 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
 | 3.4 | De sensorband is zwart. | Develop 3: *user tests* |
 
 ## Kritische reflectie
-De vaststelling is dat de *user tests* het concept enorm hebben geholpen en het nieuwe inzichten bracht. Daarnaast viel het concept bij vele testpersonen in de smaak. Dat is uiteraard leuk om te horen. 
-Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. Lopers die het product aankopen willen namelijk al de loopstijl aanpassen. Daardoor zou de straf misschien onnodig zijn, om ze te motiveren. Ook moeten de iets minder frequente lopers aangesproken worden. Aangezien deze groep een aanzienlijk groter risico loopt op blessures dan recreatieve lopers moeten bekijken hoe die groep kan overtuigd worden om het product te kopen. 
+Aangezien het begin van dit proces moeizaam verliep, is er na vanaf februari schot in de zaak gekomen. Met enkele geslaagde testen werd een degelijk concept bedacht en uitgewerkt. De add-n was al vanaf begin een goed idee en is verder uitgewerkt met een RGB LED, een trilling. Via Bluetooth is deze verbonden met de sensorband die de schokken meet. Er werd ook een witte sensorband gemaakt, maar na onderzoek bleef deze zwart. Daarnaast moest alle data nog grafisch weergegeven worden in een applicatie. Deze werd in het begin vooral getest op functionaliteit, maar later ook op visualiteit. Daarnaast kan met trots gezegd worden dat er 2 nieuwe functies in de applicatie verwerkt zijn. Dat zijn de routebouwer, die dankzij de activiteiten van de lopers goed routes weergeeft en de rangschikking, die de lopers motiveren om met minder schokken te lopen en zo bovenaan de lijst terechtkomen. Ook is met een duidelijke belastingscurve, die de belasting over de laatste activiteiten grafisch uitzet, vooruitgang geboekt qua personalisatie en motivatie. 
+Het doel van dit product is dat lopers hierdoor, tijdens de training, de loopstijl aanpassen en zo minder blessures oplopen.
 
 ## Bijlagen
 - Discovery
