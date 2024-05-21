@@ -203,11 +203,11 @@ De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt
 > [!IMPORTANT]
 > #### Design requirements
 > De ontwerpstrategie voor de add-on is *design for more types*. De add-on moet in verschillende maten beschikbaar zijn, want er zijn ook verschillende breedtes horlogebanden. Bij de sensorband moet *design for adjustability* toegepast worden. De maat voor de sensorband moet aanpasbaar zijn. Voor verschillende diktes benen. 
-<img src="images/design_for_am.png" width="70%"/>
-
+> <img src="images/design_for_am.png" width="70%"/>
+> 
 > Naast de ergonomische verbeteringen moet de add-on nog een beetje aangepast worden. Zoals vermeld moet de uitsparing iets dieper zodat het er niet onderdoor schuift en beter blijft zitten. Daarnaast zijn er verschillende breedtes van horlogebanden. Daarom moet de add-on in meerdere types beschikbaar zijn. Dit is mooi weergegeven in onderstaande afbeelding.
-
-<img src="images/design_glance.png" width="40%"/>
+> 
+> <img src="images/design_glance.png" width="40%"/>
 
 ## Develop 2: Human Mind
 ### Doelstellingen
@@ -379,18 +379,18 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de applicatie te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
 
 > [!IMPORTANT]
-> #### Design requirements
+> #### Design requirements:
 >
-> Tijdspanne tussen trillingen, als loper, zelf kunnen instellen.
-> De LED moet voor de rode LED eerst oranje zijn.
-> De add-on moet oplaadbaar zijn.
-> De add-on wordt geplaatst met de LED richting het hoofd van de loper.
-> De functionaliteit van de applicatie zit goed.
-> De belastingscurve is erg interessant.
-> De interface moet aantrekkelijker.
-> De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen.
-> De sensorband moet smaller, zodat die minder hapert.
-> De elasticiteit in de sensorband is zeer goed om aan te spannen.
+> - Tijdspanne tussen trillingen, als loper, zelf kunnen instellen.
+> - De LED moet voor de rode LED eerst oranje zijn.
+> - De add-on moet oplaadbaar zijn.
+> - De add-on wordt geplaatst met de LED richting het hoofd van de loper.
+> - De functionaliteit van de applicatie zit goed.
+> - De belastingscurve is erg interessant.
+> - De interface moet aantrekkelijker.
+> - De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen.
+> - De sensorband moet smaller, zodat die minder hapert.
+> - De elasticiteit in de sensorband is zeer goed om aan te spannen.
 
 ## Develop 3: Human Senses
 ### Doelstellingen
@@ -428,20 +428,20 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
     - Geen benaming bij knoppen.
 
 > [!IMPORTANT]
-> #### Design requirements
+> #### Design requirements:
 >
-> De add-on moet oplaadbaar zijn, met een kabel.
-> De sensorband is zwart.
-> Bij lage schokken blijft de LED gewoon uit.
-> Applicatie:
-    - Rangschikkings knop in home scene.
-    - Een ronde opname knop.
-    - In de opname scene een homeknop.
-    - Ronde tijdsaanduiding.
-    - Aftelling zuiver horizontaal.
-    - Rapport weergeven met verschillende grafieken.
-    - Rapport scene beter met extra knoppen.
-    - Geen benaming bij knoppen.
+> - De add-on moet oplaadbaar zijn, met een kabel.
+> - De sensorband is zwart.
+> - Bij lage schokken blijft de LED gewoon uit.
+> - Applicatie:
+>    - Rangschikkings knop in home scene.
+>    - Een ronde opname knop.
+>    - In de opname scene een homeknop.
+>    - Ronde tijdsaanduiding.
+>    - Aftelling zuiver horizontaal.
+>    - Rapport weergeven met verschillende grafieken.
+>    - Rapport scene beter met extra knoppen.
+>    - Geen benaming bij knoppen.
 
 
 ## Design  requirements
