@@ -8,7 +8,7 @@
 ## Samenvatting
 Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**. Middels schokdetectie zal een waarschuwing aan de hardlopers worden verstrekt, waardoor de lopers gedurende de loopactiviteit de loopstijl kunnen moduleren ter voorkoming van blessures. Het is echter cruciaal om de lopers **tijdens het hardlopen effectief te waarschuwen**. In een initiële poging hiertoe werd gebruik gemaakt van auditieve interferentie, zoals ruis op muziek. Uit een aanvankelijk onderzoek bleek dat niet iedereen de voorkeur geeft aan hardlopen met muzikale begeleiding. Om die reden werd naar alternatieve benaderingen gezocht. Het doel is om de hardlopers te waarschuwen door middel van een **LED die de kleur rood aanneemt**. Deze waarschuwingsfunctie kan worden geïntegreerd als een toevoeging aan het horloge. Gezien het feit dat de overgrote meerderheid van hardlopers reeds een horloge draagt, is het gerbuik hiervan relatief eenvoudig.
 
-Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over hetsuboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat de afnemende snelheid wordt waargenomen door vrienden of medelopers.
+Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over het suboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat de afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze applicatie geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. Met hulp van deze applicatie zal ook het sociale contact met vrienden bevorderd worden.
 <img src="images/heroschets_Def.jpg"/>
@@ -371,6 +371,7 @@ Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
 
 Er werden volgende zaken opgemerkt.:
 - De velkroband hapert te veel tijdens het aandoen.
+- De straf is niet nodig. Wanneer een loper dit product aankoopt, wilt die al zijn loopstijl verbeteren en hoeft daarom niet extra gestimuleerd te worden.
 - De testpersonen plaatsen ook hier alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal er een symbool geplaatst worden op de add-on.
 - De sensorband kan misschien ook eens in het wit gemaakt worden en dan testen welk kleur beter is.
 Daarnaast werden ook een aantal goede zaken aangekaart.: 
@@ -504,6 +505,7 @@ Ook moet er nog rekening gehouden worden met of de straf wel echt nodig blijkt. 
   - [protocol](https://docs.google.com/document/d/1OtAYweZF_wQCRTwFmExqQDuNzsftwDbqwzmIXfz2akk/edit)
   - [content](https://drive.google.com/drive/folders/15DMeSZ1deatgWpHPhC_Md29zQ8SQLxcL)
   - [report](https://docs.google.com/document/d/14lkTnhygynz4IRsV_9h-YdKm0Tds50YIHdFEBZeTIg4/edit)
+  - [report](https://docs.google.com/document/d/103iYNP5TnIp8TD3cescv881n98BtGmH3tTzwa1kZ730/edit)
 - Develop 3
   - [protocol](https://docs.google.com/document/d/1W3FYAAPSdmzL2gCnENVWhxrBk0Qv3ZmPza0EpiSr0zc/edit)
   - [content_protocol](https://drive.google.com/drive/folders/1h_ir-iSQ5fhNMbCP564f0-E8MFREXC9T)
