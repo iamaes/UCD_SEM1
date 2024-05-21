@@ -155,7 +155,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte applic
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
 |Add-on|€86,80|https://www.kickstarter.com/projects/1742184757/glance-worlds-first-smart-accessory-for-your-watch/comments|
-|Sensorband|https://www.movesense.com/shop/|
+|Sensor|€119,00|https://www.movesense.com/shop/|
 
 ## Develop 1: Human Body
 ### Doelstellingen
