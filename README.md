@@ -142,6 +142,15 @@ Bij deze eerste keuze kozen 3/3 testpersonen voor de Victory-applicatie. De mees
 Om de loper te waarschuwen wordt gerbuik gemaakt van een add-on die licht uitstuurt. Ook is het feit dat de add-on nog verder moeten ontwikkelen en nog moet getest worden welk soort bandje, dikte, dichting... het best past.
 Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte applicatie 'Victory'. De grafieken worden weergegeven met rode balken onder de grafiek en er zit een functie routebouwer in de applicatie. 
 
+
+> [!IMPORTANT]
+> #### Design requirements
+>
+> Er wordt een add-on, die licht uitstraalt, gebruikt om de loper te waarschuwen.
+> De add-on bevindt zich op de pols. 
+> Er is een aparte, zelfstandig applicatie voor de dataweergave.
+> Er wordt een routebouwer geïplementeerd in de applicatie.
+
 ## Bill of materials
 |Materialen|Prijs|Link|  
 |---:|:---:|:---:|
@@ -179,8 +188,8 @@ De sensorband:
 
 De percentielberekeningen hadden in dit concept geen extra waarde.
 
-### Resultaten (N=3)
-#### Prototype
+### Resultaten
+#### Antropometrische analyse (N=3)
 Voor de add-on werd gebaseerd op een bestaand product, genaamd Glance[^3]. Dit is een stuk die perfect onder een horlogeband past. Aan beide zijden komt het er een beetje uit, voor de stabiliteit van het product. Langs de ene zijde komt er net een groter deel uit, omdat er daar een OLED display zit. Zo kan de gerbuiker snel een bericht lezen of dergelijke. Bij het ontwerp zou de display vervangen worden door een led. Op die manier wordt de loper gewaarschuwd. Zie onderstaande foto's ter verduidelijking.
 <p>
     <img src="images/glance_product.png" width="36%"/>
@@ -444,33 +453,36 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
 >    - Rapport scene beter met extra knoppen.
 >    - Geen benaming bij knoppen.
 
-
 ## Design  requirements
 
 | ID | Design Requirement | Bron |
 | --- | --- | --- |
 | **Deel 1** | **Add-on** |
-| 1.1 | De ontwerpstrategie voor de add-on is *design for more types* | Develop 1: antropometrische analyse |
-| 1.2 | De uitsparing van de add-on, om de horlogeband in plaatsen, moet dieper. | Develop 1: antropometrische analyse |
-| 1.3 | Tijdspanne tussen trillingen, als loper, zelf kunnen instellen. | Develop 2: *expert review* |
-| 1.4 | De LED moet voor de rode LED eerst oranje zijn. | Develop 2: *expert review* |
-| 1.5 | De add-on moet oplaadbaar zijn. | Develop 2: *expert review* |
-| 1.6 | De add-on wordt geplaatst met de LED richting het hoofd van de loper. | Develop 2: *expert review* en *usability tests* |
-| 1.7 | De add-on moet oplaadbaar zijn, met een kabel. | Develop 3: *user tests* |
-| 1.8 | Bij lage schokken is de LED gewoon uit. | Develop 3: *user tests* |
+| 1.1 | Er wordt een add-on, die licht uitstraalt, gebruikt om de loper te waarschuwen. | Definition: *user tests* en *user interviews* |
+| 1.2 | De add-on bevindt zich op de pols. | Definition: *user tests* en *user interviews* |
+| 1.3 | De ontwerpstrategie voor de add-on is *design for more types* | Develop 1: antropometrische analyse |
+| 1.4 | De uitsparing van de add-on, om de horlogeband in plaatsen, moet dieper. | Develop 1: antropometrische analyse |
+| 1.5 | Tijdspanne tussen trillingen, als loper, zelf kunnen instellen. | Develop 2: *expert review* |
+| 1.6 | De LED moet voor de rode LED eerst oranje zijn. | Develop 2: *expert review* |
+| 1.7 | De add-on moet oplaadbaar zijn. | Develop 2: *expert review* |
+| 1.8 | De add-on wordt geplaatst met de LED richting het hoofd van de loper. | Develop 2: *expert review* en *usability tests* |
+| 1.9 | De add-on moet oplaadbaar zijn, met een kabel. | Develop 3: *user tests* |
+| 1.10 | Bij lage schokken is de LED gewoon uit. | Develop 3: *user tests* |
 | **Deel 2** | **Applicatie** |
-| 2.1 | De functionaliteit van de applicatie zit goed. | Develop 2: *expert review* |
-| 2.2 | De belastingscurve is erg interessant. | Develop 2: *expert review* |
-| 2.3 | De interface moet aantrekkelijker. | Develop 2: *expert review* |
-| 2.4 | De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen. | Develop 2: *usability tests* |
-| 2.5 | Rangschikkings knop in home scene. | Develop 3: *user tests* |
-| 2.6 | Een ronde opname knop. | Develop 3: *user tests* |
-| 2.7 | In de opname scene een homeknop. | Develop 3: *user tests* |
-| 2.8 | Ronde tijdsaanduiding. | Develop 3: *user tests* |
-| 2.9 | Aftelling zuiver horizontaal. | Develop 3: *user tests* |
-| 2.10 | Rapport weergeven met verschillende grafieken. | Develop 3: *user tests* |
-| 2.11 | Rapport scene beter met extra knoppen. | Develop 3: *user tests* |
-| 2.12 | Geen benaming bij knoppen. | Develop 3: *user tests* |
+| 2.1 | Er is een aparte, zelfstandig applicatie voor de dataweergave. | Definition: *user tests* en *user interviews* |
+| 2.2 | Er wordt een routebouwer geïplementeerd in de applicatie. | Definition: *user tests* en *user interviews* |
+| 2.3 | De functionaliteit van de applicatie zit goed. | Develop 2: *expert review* |
+| 2.4 | De belastingscurve is erg interessant. | Develop 2: *expert review* |
+| 2.5 | De interface moet aantrekkelijker. | Develop 2: *expert review* |
+| 2.6 | De routebouwer leert welke routes goed zijn, door de gegevens van de lopers te bekijken en daaruit de beste terug voor te stellen. | Develop 2: *usability tests* |
+| 2.7 | Rangschikkings knop in home scene. | Develop 3: *user tests* |
+| 2.8 | Een ronde opname knop. | Develop 3: *user tests* |
+| 2.9 | In de opname scene een homeknop. | Develop 3: *user tests* |
+| 2.10 | Ronde tijdsaanduiding. | Develop 3: *user tests* |
+| 2.11 | Aftelling zuiver horizontaal. | Develop 3: *user tests* |
+| 2.12 | Rapport weergeven met verschillende grafieken. | Develop 3: *user tests* |
+| 2.13 | Rapport scene beter met extra knoppen. | Develop 3: *user tests* |
+| 2.14 | Geen benaming bij knoppen. | Develop 3: *user tests* |
 | **Deel 3** | **Sensorband** |
 | 3.1 | Bij de sensorband moet *design for adjustability* toegepast worden. | Develop 1: antropometrische analyse |
 | 3.2 | De sensorband moet smaller, zodat die minder hapert. | Develop 2: *expert review* en *usability tests* |
