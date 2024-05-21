@@ -411,11 +411,11 @@ Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in v
 
 <img src="images/vier_scenes.png" width="100%"/>
 
-Daarnaast werden ook nog vragen gesteld of de LED eventueel groen kan 'ademen' in plaats van helemaal uit. Ook de sensorband werd in het wit gemaakt en er werd een hand in de add-on gemaakt, om aan te duiden in welke richting de add-on onder de horlogeband moet.
+Daarnaast werden ook nog vragen gesteld of de LED eventueel groen kan 'ademen' in plaats van helemaal uit. Ook de sensorband werd in het wit gemaakt en er werd een hand in de add-on gemaakt, om aan te duiden in welke richting de add-on onder de horlogeband moet. (*sensitive signifier*)
 
 <img src="images/hand_in_add-on.png" width="30%"/>
 
-Deze keuzes werden gemaakt met behulp van *user tests*. Tot slot was er ook nog het idee om de navigatie te testne. Dit aan de hand van leds die links of rechts aanduiden, want de loper kan natuurlijk de route niet zien op zijn gsm. Helaas was hiervoor geen tijd meer, maar zou in de toekomst zeker nog getest kunnen worden. In de tweede render hieronder wordt dit ook voorgesteld.
+Deze keuzes werden gemaakt met behulp van *user tests*. Tot slot was er ook nog het idee om de navigatie te testen. Dit aan de hand van leds die links of rechts aanduiden, want de loper kan natuurlijk de route niet zien op zijn gsm. Helaas was hiervoor geen tijd meer, maar zou in de toekomst zeker nog getest kunnen worden. In de tweede render hieronder wordt dit ook voorgesteld.
 
 <p>
     <img src="images/render_add-on_denoise.png" width="32%"/>
