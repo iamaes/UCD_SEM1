@@ -26,7 +26,7 @@ Randvoorwaarden:
 ## Methodologie
 Het eerste deel van de opdracht werd opgedeeld in 2 grote fasen: discovery en definition. Dit is hieronder weergegeven in een quadruple diamond.
 
-<img src="images/methodologie.png"/>
+<img src="images/Methodologie.png"/>
 
 ### problem discovery 
 In het eerste deel ging alle aandacht naar het onderzoeken van de opdracht. Het is belangrijk om elk detail van de opdracht te kennen. Dit alles om de verschillende deelaspecten van de opdrachten in kaart te brengen. 
