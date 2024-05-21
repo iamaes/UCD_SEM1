@@ -417,7 +417,11 @@ Daarnaast werden ook nog vragen gesteld of de LED eventueel groen kan 'ademen' i
 
 Deze keuzes werden gemaakt met behulp van *user tests*. Tot slot was er ook nog het idee om de navigatie te testne. Dit aan de hand van leds die links of rechts aanduiden, want de loper kan natuurlijk de route niet zien op zijn gsm. Helaas was hiervoor geen tijd meer, maar zou in de toekomst zeker nog getest kunnen worden. In de tweede render hieronder wordt dit ook voorgesteld.
 
-<img src="images/vier_scenes.png" width="100%"/>
+<p>
+    <img src="images/render_add-on_denoise.png" width="32%"/>
+    <img src="images/render_add-on_navigatie_denoise2.png" width="32%"/>
+    <img src="images/render_sensorband4.png" width="32%"/>
+</p>
 
 ### Resultaten 
 #### Hiërarchische taakanalyse
