@@ -533,6 +533,8 @@ Het doel van dit product is dat lopers hierdoor, tijdens de training, de loopsti
   - [content_report](https://drive.google.com/drive/folders/1mjphxrJCp-d5z5XsD5w_k_oEG3GS6cIJ)
   - [report](https://docs.google.com/document/d/1d-04iPY_rcxMElfMVuiAGdHJKzOyZQHkK5JLwmDVuho/edit)
 
+Alle informed consents: [informed consents](https://drive.google.com/drive/folders/1WaEJXOdOcdhHoSp3gnQi2KakQQELSypy)
+
 Het miro-board (enkel gebruikt tijdens de discovery en definition): 
 [miro](https://miro.com/app/board/uXjVNeHs5e4=/)
 
