@@ -358,7 +358,7 @@ void loop()
 Deze opdracht werd opgesplitst in twee waves: de *expert review* en de *usability tests*. 
 
 ### Resultaten 
-#### Expert review N=2
+#### Expert review (N=2)
 In de *expert review* werd met 2 medestudenten een test uitgevoerd. Deze testpersonen kennen de opdracht, dus worden als experts beschouwd. Op die manier werden gerichtere en specifiekere vragen gesteld.
 Nadat de experts het prototype grondig bekeken en daarna uittesten, werden nog extra vragen en bedenkingen besproken. 
 
@@ -375,15 +375,14 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 
 > "De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt."
 
-#### Usability test N=3
+#### Usability test (N=3)
 Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
 
 Er werden volgende zaken opgemerkt.:
-- De velkroband hapert te veel tijdens het aandoen.
 - De straf is niet nodig. Wanneer een loper dit product aankoopt, wilt die al zijn loopstijl verbeteren en hoeft daarom niet extra gestimuleerd te worden.
 - De testpersonen plaatsen ook hier alle drie de add-on, met de LED, naar het hoofd. 1 persoon omdat het logisch leek, maar de andere 2 merkten op dat de add-on anders in de plooi van de pols terecht komt. Om dus die richting duidelijk aan te geven, zal er een symbool geplaatst worden op de add-on.
 - De sensorband kan misschien ook eens in het wit gemaakt worden en dan testen welk kleur beter is.
-Daarnaast werden ook een aantal goede zaken aangekaart.: 
+Daarnaast werden ook een aantal goede dingen opgemerkt.: 
 - Het is goed dat de LED eerst nog op oranje springt en niet meteen op rood.
 
 De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop werd verder gebrainstormd. Toen werd op het idee gekomen om een functie in de applicatie te stoppen, die alle routes minder dan 15% impact verzameld. Dus de lopers maken eigenlijk mee de routebouwer te maken. Wanneer een locatie wordt ingegeven zal de routebouwer alle routes voorstellen die minder dan 15% schokken ondervonden. Daarna kan de gekozen route gestart en opgenomen worden. Dit werd getest met de testpersonen en als zeer nuttig ervaard.
@@ -393,6 +392,7 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 >
 > - Tijdspanne tussen trillingen, als loper, zelf kunnen instellen.
 > - De LED moet voor de rode LED eerst oranje zijn.
+> - De sensorband moet smaller, zodat die minder hapert.
 > - De add-on moet oplaadbaar zijn.
 > - De add-on wordt geplaatst met de LED richting het hoofd van de loper.
 > - De functionaliteit van de applicatie zit goed.
@@ -407,7 +407,7 @@ De eerste testpersoon vroeg hoe de routebouwer eigenlijk in elkaar zit. Daarop w
 Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een hiërarchische taakanalyse en gebruikerstesten kan worden aangetoont welke optimalisaties werden aangebracht op het vlak van de sensoriële ergonomie.
 
 ### Materiaal en methoden
-Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in verband met de sensorband en add-on. Andere dan weer met de applicatie. Deze applicatie kreeg een flinke opknapbeurt. Uit vorige deelopdracht bleek namelijk dat de functionaliteiten wel goed zaten, maar het uiterlijk nog veel beter kon. Daarop werden 3 gelijke applicaties gemaakt, maar telkens met subtiele verschillen om op die manier aan de testpersonen te vragen welke ze verkiezen. Uit al deze keuzes werd dan 1 finale applicatie gemaakt. Hieronder kunt u al de 4 hoofdscenes op een rij zien.
+Voor deze laatste deelopdracht werden er nog heel wat zaken getest. Sommige in verband met de sensorband en add-on. Andere dan weer met de applicatie. Deze applicatie kreeg een flinke opknapbeurt. Uit vorige deelopdracht bleek namelijk dat de functionaliteiten wel goed zaten, maar het uiterlijk nog veel beter kon. Ook is er nieuwe functie 'de rangschikking', die rangschikt alle vrienden van de loper en zichzelf volgens de schokken. De persoon met de minste schokken staat uiteraard bovenaan. De routebouwer zit ook in de applicatie. Daarop werden 3 gelijke applicaties gemaakt, maar telkens met subtiele verschillen om op die manier aan de testpersonen te vragen welke ze verkiezen. Uit al deze keuzes werd dan 1 finale applicatie gemaakt. Hieronder kunt u al de 4 hoofdscenes op een rij zien.
 
 <img src="images/vier_scenes.png" width="100%"/>
 
@@ -419,7 +419,7 @@ Deze keuzes werden gemaakt met behulp van *user tests*.
 
 <img src="images/hiërarchische_taakanalyse.png" width="50%"/>
  
-#### User test N=3
+#### User test (N=3)
 Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn de resultaten:
 - batterij:
   - opladen met kabel
@@ -485,7 +485,7 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
 | 2.14 | Geen benaming bij knoppen. | Develop 3: *user tests* |
 | **Deel 3** | **Sensorband** |
 | 3.1 | Bij de sensorband moet *design for adjustability* toegepast worden. | Develop 1: antropometrische analyse |
-| 3.2 | De sensorband moet smaller, zodat die minder hapert. | Develop 2: *expert review* en *usability tests* |
+| 3.2 | De sensorband moet smaller, zodat die minder hapert. | Develop 2: *expert review* |
 | 3.3 | De elasticiteit in de sensorband is zeer goed om aan te spannen. | Develop 2: *expert review* |
 | 3.4 | De sensorband is zwart. | Develop 3: *user tests* |
 
