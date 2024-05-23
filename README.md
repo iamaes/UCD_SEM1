@@ -455,6 +455,12 @@ Deze keuzes werden gemaakt met behulp van *user tests*. Tot slot was er ook nog 
  
 #### User test (N=3)
 Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn de resultaten:
+
+<p>
+    <img src="images/test_semy_add-on.jpg" width="32%"/>
+    <img src="images/test_semy_rugzak.jpg" width="32%"/>
+</p>
+
 - batterij:
   - opladen met kabel
 - uitzicht:
@@ -470,6 +476,8 @@ Uit deze taakanalyse werden volgende deelascpecten verder getailleerd. Dit zijn 
     - Rapport weergeven met verschillende grafieken.
     - Rapport scene beter met extra knoppen.
     - Geen benaming bij knoppen.
+
+<img src="images/gwin_opnemen.png" width="30%"/>
 
 > [!IMPORTANT]
 > #### Design requirements:
@@ -549,6 +557,7 @@ Het doel van dit product is dat lopers hierdoor, tijdens de training, de loopsti
   - [report](https://docs.google.com/document/d/13OGesLvXKp1AdMp1K0mX-dShAppVLlxFatK6jt7x6hc/edit)
 - Develop 2
   - [protocol](https://docs.google.com/document/d/1OtAYweZF_wQCRTwFmExqQDuNzsftwDbqwzmIXfz2akk/edit)
+  - [content_explaining](https://drive.google.com/drive/folders/15XhQi3RXNrJaN7W5Kwfxt3TfCI9sgrKE)
   - [content](https://drive.google.com/drive/folders/15DMeSZ1deatgWpHPhC_Md29zQ8SQLxcL)
   - [report](https://docs.google.com/document/d/14lkTnhygynz4IRsV_9h-YdKm0Tds50YIHdFEBZeTIg4/edit)
   - [report](https://docs.google.com/document/d/103iYNP5TnIp8TD3cescv881n98BtGmH3tTzwa1kZ730/edit)
