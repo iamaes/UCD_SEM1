@@ -11,7 +11,7 @@ Heden ondervinden talrijke hardlopers belemmeringen in de vorm van **blessures**
 Bovendien kan er een **disciplinaire sanctie** geassocieerd worden met deze waarschuwing, zodat hardlopers niet slechts worden geïnformeerd over het suboptimale loopgedrag, maar ook extra gemotiveerd worden om daadwerkelijk corrigerende acties te ondernemen. Deze disciplinaire maatregel neemt de vorm aan van een **vermindering van de loopsnelheid**, iets wat iedere hardloper vanzelfsprekend wenst te vermijden, aangezien niemand graag heeft dat de afnemende snelheid wordt waargenomen door vrienden of medelopers.
 
 Tot slot is het van belang dat deze data tot bij de gebruikers geraakt. Hiervoor wordt gebruik gemaakt van een **applicatie**. Deze applicatie geeft de data op een overzichtelijke manier weer. Zo kan de loper duidelijk zien waar er ruimte is voor verbetering. Met hulp van deze applicatie zal ook het sociale contact met vrienden bevorderd worden.
-<img src="images/heroschets_Def.jpg"/>
+<img src="images/heroshot_def.png"/>
 
 
 ## Introductie
@@ -111,6 +111,11 @@ Na de brainstorm fase werden er *user tests* en *user interviews* toegepast.
 Na een voorafgaand interview, waarin werd gepeild naar het gebruiksgemak met de verschillende gadgets, volgde de test. Deze test onderzocht de zichtbaarheid en het comfort van de LED. 
 Er werd gevraagd om even een stukje te lopen. De loper kan op die manier inschatten of de LED op de juiste plaats bevestigd wordt. Verder kan de loper eventuele problemen/ongemakken ervaren.
 Uit het voorafgaande interview uit wave 1 werd vooral vastgesteld dat 2 van de 3 testpersonen geen enkel probleem hadden met meer gadgets/technologie naast de gebruikelijke sporthorloge en hartslagmeter. De andere testpersoon vond het net iets te veel, maar de voordelen wogen alsnog meer door t.o.v. de nadelen. Over het algemeen waren de reacties op het concept positief en enthousiast. Uit de test bleek dat de in de regio van de pols de beste oplossing was, de andere posities waren moeilijk waar te nemen (bijvoorbeeld op de schoen). **De add-on op het horloge was hierbij dan de populairste positie**.
+
+<p>
+    <img src="images/licht_schoen.jpg" width="40%"/>
+    <img src="images/licht_pols.jpg" width="40%"/>
+</p>
 
 #### Dataweergave (N=3)
 De tweede test werd aan de hand van uitlegvideo's en taak interviews aan de gerbuikers voorgesteld.
@@ -374,6 +379,12 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 - Dankzij de elasticiteit van de sensorband is het heel stevig aan te spannen en blijft het ten allen tijde op zijn plaats.
 
 > "De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt."
+
+<p>
+    <img src="images/voorbeeld_stravaapp.png" width="32%"/>
+    <img src="images/voorbeeld_victory_stravaapp.png" width="32%"/>
+    <img src="images/voorbeeld_victoryapp.png" width="32%"/>
+</p>
 
 #### Usability test (N=3)
 Daaropvolgend werd de test nogmaals uitgevoerd. Nu met 3 testpersonen.
