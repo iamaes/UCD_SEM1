@@ -205,13 +205,22 @@ Voor de add-on werd gebaseerd op een bestaand product, genaamd Glance[^3]. Dit i
 
 Eerste prototype:
 <p>
-    <img src="images/prototype_tante.jpg" width="28%"/>
-    <img src="images/nx_prototype.png" width="43%"/>
-    <img src="images/prototype_rense.jpg" width="28%"/>
+    <img src="images/prototype_tante.jpg" width="20%"/>
+    <img src="images/nx_prototype.png" width="20%"/>
+    <img src="images/prototype_rense.jpg" width="20%"/>
+    <img src="images/gwin_add-on.png" width="18.5%"/>
 </p>
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie afbeelding rechts).
 Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonomisch ontworpen is en of er eventuele aanpassingen nodig zijn.
+
+<p>
+    <img src="images/gwin_sens.png" width="34%"/>
+    <img src="images/gwin_senso.png" width="29%"/>
+    <img src="images/gwin_velcro.png" width="33%"/>
+</p>
+
+Uit het onderzoek dat een velcroband best was. Vooral als de schoenen al aan de voeten zijn, is het heel moeilijk om de elastische band nog over je voet te trekken. 
 Om de omtrek van de sensorband te bepalen, werden er, vanuit een steekproef met een volledige klasgroep en de testpersonen, afmetingen genomen van de omtrek van de enkels. Hieronder zijn de resultaten. Deze werden gebruikt om de sensorband mee te maken.
 De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt met als kleinste omtrek 19,5cm en als grootste omtrek 27 cm. [maten](https://docs.google.com/document/d/177shcS6c-XjRFj7ajuwbEiQrWMjYZvnB4AYkbZvYki0/edit)
 
