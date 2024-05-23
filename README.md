@@ -192,6 +192,7 @@ De sensorband:
 </p>
 
 De percentielberekeningen hadden in dit concept geen extra waarde.
+Ondertussen werden er wel ook andere zaken bevraagd en gemeten bij de sensorband. De omtrek was nog steeds onbepaald. Ook werd bevraagd of de sensorband een elastische band moet zijn of er beter met een kliksysteem gewerkt wordt. Dit is duidelijk te zien in onderstaande afbeeldingen.
 
 ### Resultaten
 #### Antropometrische analyse (N=3)
@@ -210,9 +211,11 @@ Eerste prototype:
 </p>
 
 Dit prototype werd iets breder gemaakt om de stabiliteit te vergroten (zie afbeelding rechts).
-Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonmisch ontworpen is en of er eventuele aanpassingen nodig zijn.
+Voor deze opdracht werd zoals vermeld gebruikt gemaakt van *user tests*. Deze testpersonen werden gevraagde de add-on en sensorband te bevestigen. Uit die ondervindingen werd bepaald of het product al dan niet ergonomisch ontworpen is en of er eventuele aanpassingen nodig zijn.
 Om de omtrek van de sensorband te bepalen, werden er, vanuit een steekproef met een volledige klasgroep en de testpersonen, afmetingen genomen van de omtrek van de enkels. Hieronder zijn de resultaten. Deze werden gebruikt om de sensorband mee te maken.
-De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt met als kleinste omtrek 19,5cm en als grootste omtrek 27 cm.
+De laagste score was 19,5 cm en de hoogste 27 cm. De sensorband werd dus gemaakt met als kleinste omtrek 19,5cm en als grootste omtrek 27 cm. [maten](https://docs.google.com/document/d/177shcS6c-XjRFj7ajuwbEiQrWMjYZvnB4AYkbZvYki0/edit)
+
+<img src="images/oma_naaien.jpg" width="30%"/>
 
 > [!IMPORTANT]
 > #### Design requirements
@@ -357,8 +360,11 @@ void loop()
   }
 }
 ```
+<p>
+    <img src="images/stopwatch_arduino.jpg" width="20%"/>
+    <img src="images/add-on_arduino.png" width="20%"/>
+</p>
 
-<img src="images/add-on_arduino.png" width="20%"/>
 
 Deze opdracht werd opgesplitst in twee waves: de *expert review* en de *usability tests*. 
 
@@ -371,7 +377,7 @@ Er werden volgende dingen nog opgemerkt: het moet mogelijk zijn om de add-on op 
 
 Er werden volgende zaken opgemerkt.:
 - De eerste expert zei dat de LED niet eerst groen moet worden. Het zal de loper meest waarschuwen als de LED ineens op oranje springt. Daarop had de tweede expert wel een andere inkijk. Die vertelde dat als de groene LED niet brandt bij lage impact, de loper kan denken dat de add-on niet werkt. Om een middenweg te vinden moet worden getest of het eventueel beter is als de groene LED geleidelijk aan en uit gaat.
-- De velkroband hapert te veel tijdens het aandoen.
+- De velcroband hapert te veel tijdens het aandoen.
 - De experts plaatsten allebei de add-on, met de LED, naar het hoofd. 
 - De sensor is quasi altijd gemakkelijk in te steken en uit te halen, maar af en toe komt er toch wat moeite bij kijken. 
 
@@ -381,9 +387,8 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 > "De belastingscurve is erg interessant, omdat die mooi weergeeft of de loper al dan niet progressie maakt."
 
 <p>
-    <img src="images/voorbeeld_stravaapp.png" width="32%"/>
-    <img src="images/voorbeeld_victory_stravaapp.png" width="32%"/>
-    <img src="images/voorbeeld_victoryapp.png" width="32%"/>
+    <img src="images/test_emile.jpg" width="32%"/>
+    <img src="images/test_rense.png" width="32%"/>
 </p>
 
 #### Usability test (N=3)
