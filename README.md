@@ -397,7 +397,7 @@ Daarnaast werden ook een aantal goede zaken aangekaart.:
 
 <p>
     <img src="images/test_emile.jpg" width="32%"/>
-    <img src="images/test_rense.png" width="32%"/>
+    <img src="images/test_rense.png" width="48%"/>
 </p>
 
 #### Usability test (N=3)
