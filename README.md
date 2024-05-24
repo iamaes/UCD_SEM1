@@ -573,6 +573,8 @@ Alle informed consents: [informed consents](https://drive.google.com/drive/folde
 Het miro-board (enkel gebruikt tijdens de discovery en definition): 
 [miro](https://miro.com/app/board/uXjVNeHs5e4=/)
 
+De explainer video: [link naar YouTube](https://youtu.be/5AjBAwFtOZk)
+
 ## Bronnen
 [^1]: Victoris. (2021, dec.) Music-based biofeedback system for lower impact running.
 [URL](https://www.victoris.be/lower-impact-running/)
