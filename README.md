@@ -59,7 +59,7 @@ De volledige ruimte werd eerst onderzocht aan de hand van:
 Om deze methodes toe te passen moest er eerst aan *benchmarking* en *user interviews* gedaan worden.
 
 ### Resultaten
-#### Benchmarking (N=8)
+#### Benchmarking (N=9)
 Aangezien vele designkeuzes vaak al succesvol opgelost worden door anderen, werd gebruik gemaakt van *benchmarking*. Niet alles moet opnieuw onderzocht worden. Daarom worden bestaande oplossing grondig bestudeerd. Alle resultaten werden gestructureerd in een *problem-solution matrix* gegoten.
 
 <img src="images/problem_solution_matrix_groen.png"/>
