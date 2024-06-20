@@ -164,7 +164,7 @@ Daarnaast wordt geconcludeerd dat de data weergegeven wordt op een aparte applic
 
 ## Develop 1: Human Body
 ### Doelstellingen
-Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een anthropometrische analyse en *user tests* kan aangetoont wordeb welke optimalisaties moeten aangebracht worden op het vlak van de fysieke ergonomie.
+Het eindpunt voor deze opdracht is een geoptimaliseerd ontwerp, waarvan aan de hand van een anthropometrische analyse en *user tests* kan aangetoont worden welke optimalisaties moeten aangebracht worden op het vlak van de fysieke ergonomie.
 
 ### Materiaal en methoden
 Voor deze opdracht werd verder gewerkt op de add-on en sensorband vanuit de definition. Daarvoor werd eerst een antropometrische analyse uitgevoerd. De add-on dient onder een horlogeband geplaats worden en waarschuwt de loper met rood licht en een trilling. De sensorband wordt georiënteerd op de enkel en meet de schokken van de gebruiker. Het zijn beiden onderdelen die op het lichaam worden gebruikt. Een antropometrische analyse om te onderzoeken of het ergonomische aangebracht kan worden is dus zeker niet overbodig. 
